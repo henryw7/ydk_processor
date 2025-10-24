@@ -15,23 +15,23 @@ class Deck:
         return f"main deck: {self.main}, extra deck: {self.extra}"
 
     def sanity_check(self):
-        if len(self.main) < 40 or len(self.main) > 60:
-            print(f"Incorrect main deck size = {len(self.main)}")
-            return False
-        if len(self.extra) > 15:
-            print(f"Incorrect extra deck size = {len(self.extra)}")
-            return False
+        assert type(self.main)  is list
+        assert type(self.extra) is list
+        assert len(self.main) >= 40 or len(self.main) <= 60, \
+            f"Incorrect main deck size = {len(self.main)}"
+        assert len(self.extra) <= 15, \
+            f"Incorrect extra deck size = {len(self.extra)}"
+
         main_and_extra = self.main + self.extra
-        if any([not type(id) is int or id > 99999999 or id < 0 for id in main_and_extra]):
-            print("Incorrect card id in the deck")
-            return False
+        assert not any([not type(id) is int or id > 99999999 or id < 0 for id in main_and_extra]), \
+            "Incorrect card id in the deck"
+
         main_card_count = counter_map(main_and_extra)
         if any([n[1] > 3 for n in main_card_count.items()]):
-            for key, value in main_card_count:
+            for key, value in main_card_count.items():
                 if value > 3:
                     print(f"There are {value} of card {key} in the deck")
-            return False
-        return True
+            assert False, "More than 3 of the same cards in the deck"
 
 def read_ydk(filename):
     file_handle = open(filename, "r")
