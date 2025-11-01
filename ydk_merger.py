@@ -5,7 +5,7 @@ from ydk_parser import Deck, read_ydk, write_ydk, counter_map
 WORKING_FOLDER_NAME = "processing"
 OUTPUT_YDK_FILE_NAME = "merged.ydk"
 
-random.seed(41218)
+# random.seed(100)
 
 if __name__ == '__main__':
     dir_exist = os.path.isdir(WORKING_FOLDER_NAME)
@@ -38,8 +38,8 @@ if __name__ == '__main__':
         decks.append(deck)
 
     merged_deck = Deck()
-    merged_deck.main  = [ id for deck in decks for id in deck.main ]
-    merged_deck.extra = [ id for deck in decks for id in deck.extra ]
+    merged_deck.main  = [ id for deck in decks for id in (deck.main + deck.side_main) ]
+    merged_deck.extra = [ id for deck in decks for id in (deck.extra + deck.side_extra) ]
     random.shuffle(merged_deck.main)
     random.shuffle(merged_deck.extra)
     random_0_1 = random.random()

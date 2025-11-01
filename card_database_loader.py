@@ -79,6 +79,60 @@ def replace_special_characters(text):
             converted.append(char)
     return ''.join(converted)
 
+card_type_values = {
+    "Effect Monster" : "main",
+    "Flip Effect Monster" : "main",
+    "Flip Tuner Effect Monster" : "main",
+    "Gemini Monster" : "main",
+    "Normal Monster" : "main",
+    "Normal Tuner Monster" : "main",
+    "Pendulum Effect Monster" : "main",
+    "Pendulum Effect Ritual Monster" : "main",
+    "Pendulum Flip Effect Monster" : "main",
+    "Pendulum Normal Monster" : "main",
+    "Pendulum Tuner Effect Monster" : "main",
+    "Ritual Effect Monster" : "main",
+    "Ritual Monster" : "main",
+    "Spell Card" : "main",
+    "Spirit Monster" : "main",
+    "Toon Monster" : "main",
+    "Trap Card" : "main",
+    "Tuner Monster" : "main",
+    "Union Effect Monster" : "main",
+
+    "Fusion Monster" : "extra",
+    "Link Monster" : "extra",
+    "Pendulum Effect Fusion Monster" : "extra",
+    "Synchro Monster" : "extra",
+    "Synchro Pendulum Effect Monster" : "extra",
+    "Synchro Tuner Monster" : "extra",
+    "XYZ Monster" : "extra",
+    "XYZ Pendulum Effect Monster" : "extra",
+
+    "Skill Card" : "other",
+    "Token" : "other",
+}
+
+card_frameType_values = [
+    "normal",
+    "effect",
+    "ritual",
+    "fusion",
+    "synchro",
+    "xyz",
+    "link",
+    "normal_pendulum",
+    "effect_pendulum",
+    "ritual_pendulum",
+    "fusion_pendulum",
+    "synchro_pendulum",
+    "xyz_pendulum",
+    "spell",
+    "trap",
+    "token",
+    "skill",
+]
+
 def print_json(json_obj):
     print(json.dumps(json_obj, indent = 4))
 
@@ -93,6 +147,8 @@ def load_all_sets():
         cached_sets = yaml.safe_load(file_handle)
     return cached_sets
 
+loaded_card_cache = {}
+
 def load_all_cards():
     cached_cards = {}
     for i_bundle in range(n_all_cards_split):
@@ -100,13 +156,17 @@ def load_all_cards():
         with open(cachefile_cards, "r") as file_handle:
             cached_cards_bundle = yaml.safe_load(file_handle)
             cached_cards.update(cached_cards_bundle)
+    loaded_card_cache = cached_cards
     return cached_cards
 
 def load_card(card_id):
+    if card_id in loaded_card_cache:
+        return loaded_card_cache[card_id]
     i_bundle = int(card_id) % n_all_cards_split
     cachefile_cards = cachefile_cards_template %(f"{i_bundle:03d}")
     with open(cachefile_cards, "r") as file_handle:
         cached_cards = yaml.safe_load(file_handle)
+    loaded_card_cache.update(cached_cards)
     return cached_cards[card_id]
 
 def load_card_name_to_id_map():
@@ -166,12 +226,15 @@ if __name__ == '__main__':
     for card in cards_json:
         # print_json(card)
 
-        card_id = card["id"]
+        card_id = int(card["id"])
         card_name = card["name"]
         card_type = card["type"]
         card_humanReadableCardType = card["humanReadableCardType"]
         card_frameType = card["frameType"]
         card_description = card["desc"]
+
+        assert card_type in card_type_values, card_type
+        assert card_frameType in card_frameType_values, card_frameType
 
         cached_card_sets = []
         card_earliest_release_date = "9999-12-31"
@@ -197,7 +260,7 @@ if __name__ == '__main__':
         else:
             print(f"Warning: Card \"{card_name}\" has no \"card_sets\" keyword")
 
-        i_bundle = int(card_id) % n_all_cards_split
+        i_bundle = card_id % n_all_cards_split
         assert card_id not in cached_cards_bundle[i_bundle]
         cached_cards_bundle[i_bundle][card_id] = {
             "id" : card_id,

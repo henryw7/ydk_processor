@@ -1,3 +1,4 @@
+from card_database_loader import load_card, card_type_values
 
 def counter_map(item_list):
     result = {}
@@ -9,10 +10,23 @@ class Deck:
     def __init__(self):
         self.main = []
         self.extra = []
-        # self.side = []
+        self.side_main = []
+        self.side_extra = []
 
     def __str__(self):
-        return f"main deck: {self.main}, extra deck: {self.extra}"
+        output = "main deck:\n"
+        for card_id in self.main:
+            card_info = load_card(card_id)
+            output += f"{card_id} : {card_info["name"]}\n"
+        output += "\nextra deck:\n"
+        for card_id in self.extra:
+            card_info = load_card(card_id)
+            output += f"{card_id} : {card_info["name"]}\n"
+        output += "\nside:\n"
+        for card_id in self.side_main + self.side_extra:
+            card_info = load_card(card_id)
+            output += f"{card_id} : {card_info["name"]}\n"
+        return output
 
     def sanity_check(self):
         assert type(self.main)  is list
@@ -21,12 +35,27 @@ class Deck:
             f"Incorrect main deck size = {len(self.main)}"
         assert len(self.extra) <= 15, \
             f"Incorrect extra deck size = {len(self.extra)}"
+        assert len(self.side_main) + len(self.side_extra) <= 15, \
+            f"Incorrect side size = {len(self.side_main) + len(self.side_extra)}"
 
-        main_and_extra = self.main + self.extra
-        assert not any([not type(id) is int or id > 99999999 or id < 0 for id in main_and_extra]), \
+        for card_id in self.main:
+            card_info = load_card(card_id)
+            card_type = card_info["type"]
+            card_location = card_type_values[card_type]
+            assert card_location == "main", \
+                f"Card {card_id} ({card_info["name"]}) does not belong to main deck"
+        for card_id in self.extra:
+            card_info = load_card(card_id)
+            card_type = card_info["type"]
+            card_location = card_type_values[card_type]
+            assert card_location == "extra", \
+                f"Card {card_id} ({card_info["name"]}) does not belong to extra deck"
+
+        all_cards = self.main + self.extra + self.side_main + self.side_extra
+        assert not any([not type(id) is int or id > 99999999 or id < 0 for id in all_cards]), \
             "Incorrect card id in the deck"
 
-        main_card_count = counter_map(main_and_extra)
+        main_card_count = counter_map(all_cards)
         if any([n[1] > 3 for n in main_card_count.items()]):
             for key, value in main_card_count.items():
                 if value > 3:
@@ -61,7 +90,19 @@ def read_ydk(filename):
     deck = Deck()
     deck.main = result["main"]
     deck.extra = result["extra"]
-    # deck.side = result["side"]
+
+    deck.side_main = []
+    deck.side_extra = []
+    for card_id in result["side"]:
+        card_info = load_card(card_id)
+        card_type = card_info["type"]
+        card_location = card_type_values[card_type]
+        if card_location == "main":
+            deck.side_main.append(card_id)
+        elif card_location == "extra":
+            deck.side_extra.append(card_id)
+        else:
+            raise ValueError(f"Unrecognized card_type {card_type} at location {card_location}")
     return deck
 
 def write_ydk(filename, deck):
@@ -75,7 +116,7 @@ def write_ydk(filename, deck):
     file_lines.extend([str(id) + "\n" for id in deck.extra])
     file_lines.append("\n")
     file_lines.append("!side \n")
-    # file_lines.extend([str(id) + "\n" for id in deck.side])
+    file_lines.extend([str(id) + "\n" for id in (deck.side_main + deck.side_extra)])
     file_lines.append("\n")
 
     with open(filename, "w") as file_handle:
