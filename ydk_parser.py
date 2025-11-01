@@ -42,7 +42,7 @@ class Deck:
         for card_id in all_cards:
             card_info = load_card(card_id)
             card_earliest_release_date = card_info["earliest_release_date"]
-            print(card_info["name"], card_earliest_release_date)
+            # print(card_info["name"], card_earliest_release_date)
             if parse_date(latest_date) < parse_date(card_earliest_release_date):
                 latest_date = card_earliest_release_date
         return latest_date
