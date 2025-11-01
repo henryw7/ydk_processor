@@ -34,9 +34,8 @@ class Deck:
             assert False, "More than 3 of the same cards in the deck"
 
 def read_ydk(filename):
-    file_handle = open(filename, "r")
-    file_lines = file_handle.readlines()
-    file_handle.close()
+    with open(filename, "r") as file_handle:
+        file_lines = file_handle.readlines()
 
     result = { "main" : [], "extra" : [], "side" : [] }
     now_updating = None
@@ -79,7 +78,6 @@ def write_ydk(filename, deck):
     # file_lines.extend([str(id) + "\n" for id in deck.side])
     file_lines.append("\n")
 
-    file_handle = open(filename, "w")
-    file_handle.writelines(file_lines)
-    file_handle.close()
+    with open(filename, "w") as file_handle:
+        file_handle.writelines(file_lines)
     print(f"Writing to {filename} done.")

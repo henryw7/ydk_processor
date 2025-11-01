@@ -1,0 +1,3262 @@
+2106266:
+  description: "Your opponent cannot activate cards or effects during the Battle Phase\
+    \ while \"Gaia the Dragon Champion\" is in your Monster Zone. You can activate\
+    \ 1 of the following effects.\r\n\u25CF You can reveal 1 \"Gaia The Fierce Knight\"\
+    \ monster in your hand; add 1 Level 5 Dragon monster from your Deck to your hand.\r\
+    \n\u25CF You can reveal 1 Level 5 Dragon monster in your hand; add 1 \"Gaia The\
+    \ Fierce Knight\" monster from your Deck to your hand.\r\nYou can only use this\
+    \ effect of \"Galloping Gaia\" once per turn."
+  earliest_release_date: '2020-08-06'
+  frameType: spell
+  humanReadableCardType: Field Spell
+  id: 2106266
+  name: Galloping Gaia
+  sets:
+  - code: ROTD-EN049
+    name: Rise of the Duelist
+    rarity: Common
+    tcg_date: '2020-08-06'
+  type: Spell Card
+2250266:
+  description: "\u25CF While in Attack Position: Your opponent cannot select another\
+    \ monster as an attack target. If this card is destroyed by battle, the monster\
+    \ that destroyed this card loses 300 ATK.\n\u25CF While in Defense Position: This\
+    \ card cannot be destroyed by battle. If this card is attacked, after damage calculation,\
+    \ select 1 face-up Attack Position monster your opponent controls. Change it to\
+    \ Defense Position and this card to Attack Position."
+  earliest_release_date: '2011-05-06'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 2250266
+  name: Morphtronic Staplen
+  sets:
+  - code: EXVC-EN011
+    name: Extreme Victory
+    rarity: Common
+    tcg_date: '2011-05-06'
+  type: Effect Monster
+2333466:
+  description: 'Gains 300 ATK for each banished card. You can only use each of the
+    following effects of "Gandora-G the Dragon of Destruction" once per turn. If you
+    control "Shining Sarcophagus": You can Special Summon this card from your hand.
+    You can pay half your LP; destroy as many other cards on the field as possible,
+    and if you do, banish them, then Special Summon 1 Level 7 or lower monster that
+    mentions "Shining Sarcophagus" from your Deck, and increase its Level by the number
+    of cards destroyed by this effect.'
+  earliest_release_date: '2024-04-25'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 2333466
+  name: Gandora-G the Dragon of Destruction
+  sets:
+  - code: MP25-EN177
+    name: 2025 Mega-Pack Tin
+    rarity: Ultra Rare
+    tcg_date: '2025-09-04'
+  - code: LEDE-EN001
+    name: Legacy of Destruction
+    rarity: Quarter Century Secret Rare
+    tcg_date: '2024-04-25'
+  - code: LEDE-EN001
+    name: Legacy of Destruction
+    rarity: Secret Rare
+    tcg_date: '2024-04-25'
+  type: Effect Monster
+3792766:
+  description: "2+ \"Trickstar\" monsters\r\nWhen this card declares an attack while\
+    \ pointing to a \"Trickstar\" monster: You can target your banished \"Trickstar\"\
+    \ cards, up to the number of Link Monsters your opponent controls; add them to\
+    \ your hand, and if you do, this card gains 1000 ATK for each card added, until\
+    \ the end of this turn."
+  earliest_release_date: '2018-05-03'
+  frameType: link
+  humanReadableCardType: Link Effect Monster
+  id: 3792766
+  name: Trickstar Delfiendium
+  sets:
+  - code: MP19-EN023
+    name: 2019 Gold Sarcophagus Tin Mega Pack
+    rarity: Common
+    tcg_date: '2019-08-29'
+  - code: FLOD-EN040
+    name: Flames of Destruction
+    rarity: Rare
+    tcg_date: '2018-05-03'
+  type: Link Monster
+4550066:
+  description: 'When this card destroys an opponent''s monster by battle: You can
+    target 1 Cyberse monster with 1500 or less ATK in your GY; Special Summon it.'
+  earliest_release_date: '2021-11-04'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 4550066
+  name: Rebuildeer
+  sets:
+  - code: MP22-EN245
+    name: 2022 Tin of the Pharaoh's Gods
+    rarity: Ultra Rare
+    tcg_date: '2022-09-14'
+  - code: BODE-EN094
+    name: Burst of Destiny
+    rarity: Common
+    tcg_date: '2021-11-04'
+  type: Effect Monster
+5606466:
+  description: 'When your opponent Sets exactly 1 monster (and no other cards): Target
+    that Set monster and 1 monster you control; destroy those targets, and if you
+    do, banish them.'
+  earliest_release_date: '2005-08-17'
+  frameType: trap
+  humanReadableCardType: Normal Trap
+  id: 5606466
+  name: D.D. Trap Hole
+  sets:
+  - code: CRV-EN057
+    name: Cybernetic Revolution
+    rarity: Rare
+    tcg_date: '2005-08-17'
+  - code: CRV-EN057
+    name: Cybernetic Revolution
+    rarity: Ultimate Rare
+    tcg_date: '2005-08-17'
+  - code: DR04-EN057
+    name: Dark Revelation Volume 4
+    rarity: Common
+    tcg_date: '2007-11-14'
+  - code: LCJW-EN275
+    name: 'Legendary Collection 4: Joey''s World Mega Pack'
+    rarity: Common
+    tcg_date: '2013-10-11'
+  type: Trap Card
+7582066:
+  description: '1 Tuner + 1 or more non-Tuner Psychic-Type monsters
+
+    Once per turn, during your Main Phase, you can pick 1 random card in your opponent''s
+    hand and call what type of card it is (Monster, Spell or Trap). If you call it
+    right, this card gains 1000 ATK until your opponent''s End Phase.'
+  earliest_release_date: '2010-08-17'
+  frameType: synchro
+  humanReadableCardType: Synchro Effect Monster
+  id: 7582066
+  name: Psychic Nightmare
+  sets:
+  - code: DREV-EN085
+    name: Duelist Revolution
+    rarity: Secret Rare
+    tcg_date: '2010-08-17'
+  type: Synchro Monster
+8078366:
+  description: This card gains 800 ATK while you control a face-up Fish, Sea Serpent,
+    or Aqua-Type monster other than this card.
+  earliest_release_date: '2012-08-24'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 8078366
+  name: Atlantean Attack Squad
+  sets:
+  - code: SDRE-EN006
+    name: Realm of the Sea Emperor Structure Deck
+    rarity: Common
+    tcg_date: '2012-10-11'
+  - code: REDU-EN036
+    name: Return of the Duelist
+    rarity: Common
+    tcg_date: '2012-08-24'
+  type: Effect Monster
+8842266:
+  description: "Activate 1 of these effects;\n\u25CF Gain 1200 LP.\n\u25CF Inflict\
+    \ 800 damage to your opponent."
+  earliest_release_date: '2003-10-10'
+  frameType: spell
+  humanReadableCardType: Quick-Play Spell
+  id: 8842266
+  name: Poison of the Old Man
+  sets:
+  - code: DR1-EN088
+    name: Dark Revelation Volume 1
+    rarity: Common
+    tcg_date: '2005-03-19'
+  - code: MFC-033
+    name: Magician's Force
+    rarity: Common
+    tcg_date: '2003-10-10'
+  - code: YS15-ENF18
+    name: Saber Force Starter Deck
+    rarity: Common
+    tcg_date: '2015-05-29'
+  - code: YS11-EN029
+    name: 'Starter Deck: Dawn of the Xyz'
+    rarity: Common
+    tcg_date: '2011-07-08'
+  - code: YS14-EN030
+    name: 'Super Starter: Space-Time Showdown'
+    rarity: Common
+    tcg_date: '2014-07-10'
+  type: Spell Card
+9097866:
+  description: 'If you control 2 or more Link Monsters: You can Special Summon this
+    card from your hand. During damage calculation, if your Link Monster battles an
+    opponent''s Link Monster (Quick Effect): You can banish this card from your GY,
+    then target 1 Link Monster in your GY; your battling monster cannot be destroyed
+    by that battle, also, until the end of this turn, it gains ATK equal to the target''s
+    ATK. You can only use each effect of "Cross Debug" once per turn.'
+  earliest_release_date: '2019-07-26'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 9097866
+  name: Cross Debug
+  sets:
+  - code: RIRA-EN002
+    name: Rising Rampage
+    rarity: Common
+    tcg_date: '2019-07-26'
+  type: Effect Monster
+9402966:
+  description: 'If all monsters you control are "Superheavy Samurai" monsters, and
+    you have no Spell/Trap Cards in your Graveyard: You can target 1 face-up monster
+    your opponent controls that has a Level; send both it and this card from the field
+    to the Graveyard, then Special Summon from your Extra Deck 1 "Superheavy Samurai"
+    Synchro Monster whose Level equals the total original Levels of those 2 monsters
+    in the Graveyard. (This Special Summon is treated as a Synchro Summon.) You can
+    only use this effect of "Superheavy Samurai Battleball" once per turn.'
+  earliest_release_date: '2015-05-14'
+  frameType: effect
+  humanReadableCardType: Tuner Effect Monster
+  id: 9402966
+  name: Superheavy Samurai Battleball
+  sets:
+  - code: CROS-EN008
+    name: Crossed Souls
+    rarity: Super Rare
+    tcg_date: '2015-05-14'
+  - code: SP17-EN011
+    name: Star Pack Battle Royal
+    rarity: Common
+    tcg_date: '2017-03-09'
+  - code: SP17-EN011
+    name: Star Pack Battle Royal
+    rarity: Starfoil Rare
+    tcg_date: '2017-03-09'
+  type: Tuner Monster
+9995766:
+  description: Face-up Continuous Trap Cards cannot be destroyed, except "Imperial
+    Custom". You can only control 1 "Imperial Custom".
+  earliest_release_date: '2009-09-01'
+  frameType: trap
+  humanReadableCardType: Continuous Trap
+  id: 9995766
+  name: Imperial Custom
+  sets:
+  - code: ANPR-EN067
+    name: Ancient Prophecy
+    rarity: Common
+    tcg_date: '2009-09-01'
+  - code: SDSA-EN038
+    name: 'Structure Deck: Sacred Beasts'
+    rarity: Common
+    tcg_date: '2020-07-09'
+  - code: VASM-EN058
+    name: Valiant Smashers
+    rarity: Rare
+    tcg_date: '2023-11-16'
+  type: Trap Card
+11067666:
+  description: "[ Pendulum Effect ] \nOnce per turn, when an activated card or effect\
+    \ resolves that targets a DARK Spellcaster-Type monster you control, negate that\
+    \ effect, then destroy this card.\n\n[ Monster Effect ] \n(This card is always\
+    \ treated as a \"Synchro Dragon\" card.)\r\nIf this Pendulum Summoned card is\
+    \ used for a Synchro Summon, banish it."
+  earliest_release_date: '2017-06-22'
+  frameType: effect_pendulum
+  humanReadableCardType: Pendulum Tuner Effect Monster
+  id: 11067666
+  name: White Wing Magician
+  sets:
+  - code: PEVO-EN005
+    name: Pendulum Evolution
+    rarity: Ultra Rare
+    tcg_date: '2017-06-22'
+  type: Pendulum Tuner Effect Monster
+11161666:
+  description: 'You can target 1 "Mikanko" card you control; return it to the hand.
+    If either player equips an Equip Card(s) to this card: You can Special Summon
+    1 non-Illusion "Mikanko" monster from your Deck, also you cannot Special Summon
+    from the Extra Deck for the rest of this turn, except "Mikanko" monsters. If this
+    card is sent to the GY: You can target 1 face-up monster on the field; equip this
+    card to it as an Equip Spell. You can only use each effect of "Sanaki the Mikanko
+    Devotee" once per turn.'
+  earliest_release_date: '9999-12-31'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 11161666
+  name: Sanaki the Mikanko Devotee
+  sets: []
+  type: Effect Monster
+13069066:
+  description: This Jurassic juggernaut has a spine covered in sword-like plates,
+    and a tail to split open skulls.
+  earliest_release_date: '2013-10-11'
+  frameType: normal
+  humanReadableCardType: Normal Monster
+  id: 13069066
+  name: Sword Arm of Dragon
+  sets:
+  - code: LCJW-EN146
+    name: 'Legendary Collection 4: Joey''s World Mega Pack'
+    rarity: Common
+    tcg_date: '2013-10-11'
+  type: Normal Monster
+13529466:
+  description: "\"Aleister the Invoker\" + 1 DARK monster\r\nIf a player's monster\
+    \ effect attempts to activate, none of that player's monsters can activate their\
+    \ effects for the rest of this turn while this card is face-up on the field. Each\
+    \ player can attack with only 1 monster during each Battle Phase."
+  earliest_release_date: '2017-02-23'
+  frameType: fusion
+  humanReadableCardType: Fusion Effect Monster
+  id: 13529466
+  name: Invoked Caliga
+  sets:
+  - code: BLAR-EN080
+    name: 'Battles of Legend: Armageddon'
+    rarity: Ultra Rare
+    tcg_date: '2020-07-23'
+  - code: FUEN-EN027
+    name: Fusion Enforcers
+    rarity: Secret Rare
+    tcg_date: '2017-02-23'
+  type: Fusion Monster
+14702066:
+  description: You can Tribute 2 monsters to inflict 1500 damage to your opponent.
+  earliest_release_date: '2008-02-13'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 14702066
+  name: Cannon Soldier MK-2
+  sets:
+  - code: PTDN-EN035
+    name: Phantom Darkness
+    rarity: Common
+    tcg_date: '2008-02-13'
+  type: Effect Monster
+14898066:
+  description: This wicked Beast-Warrior does every horrid thing imaginable, and loves
+    it! His axe bears the marks of his countless victims.
+  earliest_release_date: '2005-09-01'
+  frameType: normal
+  humanReadableCardType: Normal Monster
+  id: 14898066
+  name: Vorse Raider
+  sets:
+  - code: KC01-EN012
+    name: 25th Anniversary Ultimate Kaiba Set
+    rarity: Ultra Rare
+    tcg_date: '2024-03-01'
+  - code: CT2-EN003
+    name: Collectible Tins 2005
+    rarity: Secret Rare
+    tcg_date: '2005-09-01'
+  - code: DT03-EN001
+    name: Duel Terminal 3
+    rarity: Duel Terminal Normal Parallel Rare
+    tcg_date: '2010-09-25'
+  - code: DPKB-EN008
+    name: 'Duelist Pack: Kaiba'
+    rarity: Rare
+    tcg_date: '2010-04-16'
+  - code: LCKC-EN003
+    name: Legendary Collection Kaiba Mega Pack
+    rarity: Ultra Rare
+    tcg_date: '2018-03-08'
+  - code: LDK2-ENK11
+    name: Legendary Decks II
+    rarity: Common
+    tcg_date: '2016-10-06'
+  - code: MIL1-EN032
+    name: Millennium Pack
+    rarity: Common
+    tcg_date: '2016-04-14'
+  - code: SBCB-EN091
+    name: 'Speed Duel: Battle City Box'
+    rarity: Common
+    tcg_date: '2020-11-26'
+  - code: YSKR-EN010
+    name: 'Starter Deck: Kaiba Reloaded'
+    rarity: Common
+    tcg_date: '2013-12-06'
+  type: Normal Monster
+15844566:
+  description: "3 monsters\r\nOnce per turn: You can target 1 face-up monster on the\
+    \ field; negate that target's effects until the end of this turn. Once per turn,\
+    \ if this card battles an opponent's monster, during damage calculation (Quick\
+    \ Effect): You can Tribute 1 monster this card points to; this card's ATK becomes\
+    \ double its original ATK during that damage calculation only."
+  earliest_release_date: '2018-08-09'
+  frameType: link
+  humanReadableCardType: Link Effect Monster
+  id: 15844566
+  name: Powercode Talker
+  sets:
+  - code: SDPL-EN040
+    name: 'Structure Deck: Powercode Link'
+    rarity: Ultra Rare
+    tcg_date: '2018-08-09'
+  type: Link Monster
+17841166:
+  description: This turn, all monsters on the field whose original Types are Machine
+    or Rock, are unaffected by your opponent's monster effects (except their own).
+  earliest_release_date: '2016-09-15'
+  frameType: trap
+  humanReadableCardType: Normal Trap
+  id: 17841166
+  name: Magnet Force
+  sets:
+  - code: DPRP-EN007
+    name: 'Duelist Pack: Rivals of the Pharaoh'
+    rarity: Super Rare
+    tcg_date: '2016-09-15'
+  - code: SBCB-EN040
+    name: 'Speed Duel: Battle City Box'
+    rarity: Common
+    tcg_date: '2020-11-26'
+  type: Trap Card
+17955766:
+  description: 'Once per turn: You can discard 1 card; look at your opponent''s hand
+    and choose 1 monster. If you control a monster with ATK greater than or equal
+    to the ATK of the chosen card, destroy the chosen card, and if you do, inflict
+    500 damage to your opponent. Otherwise, take 500 damage.'
+  earliest_release_date: '2006-08-16'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 17955766
+  name: Neo-Spacian Aqua Dolphin
+  sets:
+  - code: BLRR-EN049
+    name: 'Battles of Legend: Relentless Revenge'
+    rarity: Ultra Rare
+    tcg_date: '2018-06-28'
+  - code: DP03-EN005
+    name: 'Duelist Pack: Jaden Yuki 2'
+    rarity: Rare
+    tcg_date: '2007-02-07'
+  - code: LCGX-EN017
+    name: 'Legendary Collection 2: The Duel Academy Years Mega Pack'
+    rarity: Common
+    tcg_date: '2011-10-04'
+  - code: LED6-EN018
+    name: 'Legendary Duelists: Magical Hero'
+    rarity: Common
+    tcg_date: '2020-01-16'
+  - code: LDS3-EN101
+    name: 'Legendary Duelists: Season 3'
+    rarity: Common
+    tcg_date: '2022-07-21'
+  - code: POTD-EN003
+    name: Power of the Duelist
+    rarity: Super Rare
+    tcg_date: '2006-08-16'
+  - code: POTD-EN003
+    name: Power of the Duelist
+    rarity: Ultimate Rare
+    tcg_date: '2006-08-16'
+  type: Effect Monster
+18094166:
+  description: 'You can discard 1 other "HERO" monster; Special Summon this card from
+    your hand. If this card is Normal or Special Summoned: You can place 1 "Vision
+    HERO" monster from your Deck, except "Vision HERO Faris", in your Spell & Trap
+    Zone as a face-up Continuous Trap, also you cannot Special Summon monsters from
+    the Extra Deck for the rest of this turn, except "HERO" monsters. You can only
+    use each effect of "Vision HERO Faris" once per turn.'
+  earliest_release_date: '2019-07-11'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 18094166
+  name: Vision HERO Faris
+  sets:
+  - code: RA01-EN004
+    name: 25th Anniversary Rarity Collection
+    rarity: Super Rare
+    tcg_date: '2023-11-02'
+  - code: RA01-EN004
+    name: 25th Anniversary Rarity Collection
+    rarity: Ultra Rare
+    tcg_date: '2023-11-02'
+  - code: BLHR-EN010
+    name: 'Battles of Legend: Hero''s Revenge'
+    rarity: Secret Rare
+    tcg_date: '2019-07-11'
+  - code: GFP2-EN059
+    name: 'Ghosts From the Past: The 2nd Haunting'
+    rarity: Ultra Rare
+    tcg_date: '2022-05-05'
+  type: Effect Monster
+18108166:
+  description: Mysterious living matter that suddenly appeared from a different dimension.
+    Its attack paralyzes the target's nerves, and causes intense hallucinations.
+  earliest_release_date: '2015-08-06'
+  frameType: normal
+  humanReadableCardType: Normal Monster
+  id: 18108166
+  name: Mystery Shell Dragon
+  sets:
+  - code: MP16-EN047
+    name: 2016 Mega-Tin Mega Pack
+    rarity: Common
+    tcg_date: '2016-09-01'
+  - code: CORE-EN001
+    name: Clash of Rebellions
+    rarity: Common
+    tcg_date: '2015-08-06'
+  - code: YS17-EN006
+    name: 'Starter Deck: Link Strike'
+    rarity: Common
+    tcg_date: '2017-07-20'
+  type: Normal Monster
+18548966:
+  description: 'If you control 2 or more Warrior monsters: You can Special Summon
+    this card from your hand. If this card is Normal or Special Summoned: You can
+    add 1 "Heroic" Spell/Trap from your Deck to your hand. If this card is in your
+    GY and your LP are 500 or less: You can Special Summon this card, but negate its
+    effects. You can only use each effect of "Heroic Challenger - Morning Star" once
+    per turn.'
+  earliest_release_date: '2022-05-19'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 18548966
+  name: Heroic Challenger - Morning Star
+  sets:
+  - code: DIFO-EN016
+    name: Dimension Force
+    rarity: Common
+    tcg_date: '2022-05-19'
+  type: Effect Monster
+18954366:
+  description: Target 1 Level 4 or lower monster in your GY; Special Summon 1 monster
+    from your hand with an equal or lower Level than that target, then equip that
+    target to it, but for the rest of this turn, you cannot activate cards, or the
+    effects of cards, with the same name as that equip card. While a monster is equipped
+    to the Summoned monster by this effect, it gains ATK equal to half the ATK of
+    the equipped monster. You can only activate 1 "Necroquip Prism" per turn.
+  earliest_release_date: '2020-04-30'
+  frameType: spell
+  humanReadableCardType: Normal Spell
+  id: 18954366
+  name: Necroquip Prism
+  sets:
+  - code: ETCO-EN084
+    name: Eternity Code
+    rarity: Common
+    tcg_date: '2020-04-30'
+  type: Spell Card
+19050066:
+  description: "[ Pendulum Effect ] \nOnce per turn, at the start of the Battle Phase:\
+    \ You can add 1 monster with 300 ATK/200 DEF from your Deck to your hand, then\
+    \ destroy this card.\n\n[ Monster Effect ] \nWhen your monster is destroyed by\
+    \ battle: You can Special Summon this card from your hand. Your opponent's monsters\
+    \ cannot target monsters for attacks, except this one. If this card is attacked,\
+    \ change it to Attack Position at the end of the Damage Step."
+  earliest_release_date: '2023-06-22'
+  frameType: effect_pendulum
+  humanReadableCardType: Pendulum Effect Monster
+  id: 19050066
+  name: Performapal Barokuriboh
+  sets:
+  - code: BLMR-EN030
+    name: 'Battles of Legend: Monstrous Revenge'
+    rarity: Ultra Rare
+    tcg_date: '2023-06-22'
+  type: Pendulum Effect Monster
+19261966:
+  description: "1 \"Shaddoll\" monster + 1 WATER monster\r\nMust first be Fusion Summoned.\
+    \ Neither player can Special Summon monsters from the hand or GY using Spell/Trap\
+    \ effects. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap\
+    \ in your GY; add it to your hand."
+  earliest_release_date: '2015-05-14'
+  frameType: fusion
+  humanReadableCardType: Fusion Effect Monster
+  id: 19261966
+  name: El Shaddoll Anoyatyllis
+  sets:
+  - code: CROS-EN044
+    name: Crossed Souls
+    rarity: Secret Rare
+    tcg_date: '2015-05-14'
+  - code: SDSH-EN043
+    name: 'Structure Deck: Shaddoll Showdown'
+    rarity: Common
+    tcg_date: '2020-02-13'
+  type: Fusion Monster
+20529766:
+  description: "If you Tribute Summon this card by Tributing 1 of the following monsters,\
+    \ it gains the appropriate effect:\n\u25CF Batteryman D: Negate the effect of\
+    \ a Spell or Trap Card that targets this 1 card.\n\u25CF Batteryman C: During\
+    \ battle between this attacking card and a Defense Position monster whose DEF\
+    \ is lower than the ATK of this card, inflict the difference as Battle Damage\
+    \ to your opponent.\n\u25CF Batteryman AA: This card gains 1000 ATK."
+  earliest_release_date: '2006-05-17'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 20529766
+  name: Super-Electromagnetic Voltech Dragon
+  sets:
+  - code: CP06-EN008
+    name: 'Champion Pack: Game Six'
+    rarity: Rare
+    tcg_date: '2008-05-12'
+  - code: DR04-EN211
+    name: Dark Revelation Volume 4
+    rarity: Ultra Rare
+    tcg_date: '2007-11-14'
+  - code: EOJ-EN031
+    name: Enemy of Justice
+    rarity: Super Rare
+    tcg_date: '2006-05-17'
+  - code: EOJ-EN031
+    name: Enemy of Justice
+    rarity: Ultimate Rare
+    tcg_date: '2006-05-17'
+  type: Effect Monster
+22174866:
+  description: 'While your LP is higher than your opponent''s, face-up monsters your
+    opponent controls lose 500 ATK and DEF. Once per turn, if you gain LP: Target
+    1 Spell/Trap Card your opponent controls; return it to the hand.'
+  earliest_release_date: '2015-08-06'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 22174866
+  name: Aromage Cananga
+  sets:
+  - code: MP16-EN070
+    name: 2016 Mega-Tin Mega Pack
+    rarity: Common
+    tcg_date: '2016-09-01'
+  - code: CORE-EN035
+    name: Clash of Rebellions
+    rarity: Common
+    tcg_date: '2015-08-06'
+  type: Effect Monster
+23384666:
+  description: 'If this card is Normal or Special Summoned: You can take 1 Machine
+    monster whose ATK equals its own DEF from your Deck and place it on top of your
+    Deck. You can banish this card from your GY, then target 1 Machine monster in
+    your GY whose ATK equals its own DEF; Special Summon it in Defense Position. You
+    can only use each effect of "Gizmek Taniguku, the Immobile Intellect" once per
+    turn.'
+  earliest_release_date: '2021-08-12'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 23384666
+  name: Gizmek Taniguku, the Immobile Intellect
+  sets:
+  - code: MP22-EN132
+    name: 2022 Tin of the Pharaoh's Gods
+    rarity: Common
+    tcg_date: '2022-09-14'
+  - code: DAMA-EN017
+    name: Dawn of Majesty
+    rarity: Ultra Rare
+    tcg_date: '2021-08-12'
+  type: Effect Monster
+23536866:
+  description: You can banish this card from your Graveyard, then target 2 Level 5
+    WATER monsters in your Graveyard, except "Gazer Shark"; Special Summon both those
+    monsters, but their effects are negated. Immediately after this effect resolves,
+    Xyz Summon 1 WATER Xyz Monster using only those 2 monsters. You can only use this
+    effect of "Gazer Shark" once per turn.
+  earliest_release_date: '2014-05-16'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 23536866
+  name: Gazer Shark
+  sets:
+  - code: PRIO-EN006
+    name: Primal Origin
+    rarity: Common
+    tcg_date: '2014-05-16'
+  type: Effect Monster
+24701066:
+  description: "2 Level 5 monsters\r\nWhen this card destroys an opponent's monster\
+    \ by battle: You can attach that monster to this card as material. You can only\
+    \ use each of the following effects of \"Infinitrack River Stormer\" once per\
+    \ turn.\r\n\u25CF You can detach 1 material from this card; take 1 EARTH Machine\
+    \ monster from your Deck, and either add it to your hand or send it to the GY.\r\
+    \n\u25CF If this card is in your GY: You can Tribute 1 Machine Link Monster; Special\
+    \ Summon this card in Defense Position."
+  earliest_release_date: '2019-03-21'
+  frameType: xyz
+  humanReadableCardType: Xyz Effect Monster
+  id: 24701066
+  name: Infinitrack River Stormer
+  sets:
+  - code: MP20-EN212
+    name: 2020 Tin of Lost Memories Mega Pack
+    rarity: Ultra Rare
+    tcg_date: '2020-08-27'
+  - code: INCH-EN007
+    name: The Infinity Chasers
+    rarity: Secret Rare
+    tcg_date: '2019-03-21'
+  type: XYZ Monster
+24857466:
+  description: "If you negate the activation of an opponent's Spell/Trap Card(s),\
+    \ or opponent's monster effect(s), with a Counter Trap Card (except during the\
+    \ Damage Step): You can Special Summon this card from your hand. If Summoned this\
+    \ way, activate these effects and resolve in sequence, depending on the type of\
+    \ card(s) negated by that Counter Trap:\n\u25CF Spell: Inflict 1500 damage to\
+    \ your opponent.\n\u25CF Trap: Target 1 card your opponent controls; destroy that\
+    \ target.\n\u25CF Monster: Target 1 monster in your Graveyard; Special Summon\
+    \ it."
+  earliest_release_date: '2008-02-01'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 24857466
+  name: Van'Dalgyon the Dark Dragon Lord
+  sets:
+  - code: AP06-EN019
+    name: Astral Pack Six
+    rarity: Common
+    tcg_date: '2014-12-05'
+  - code: CT07-EN007
+    name: Collectible Tins 2010 Wave 1
+    rarity: Super Rare
+    tcg_date: '2010-08-31'
+  - code: JUMP-EN023
+    name: Shonen Jump Vol. 6, Issue 3 promotional card
+    rarity: Ultra Rare
+    tcg_date: '2008-02-01'
+  - code: YR01-EN001
+    name: Yu-Gi-Oh! R Volume 1 promotional card
+    rarity: Secret Rare
+    tcg_date: '2009-06-10'
+  type: Effect Monster
+27069566:
+  description: "2+ Level 6 monsters\r\nOnce per turn: You can detach 2 materials from\
+    \ this card, then target 1 face-up card your opponent controls and 1 card in either\
+    \ GY; banish them. If this Xyz Summoned card is destroyed by battle with an opponent's\
+    \ attacking monster, or by an opponent's card effect while in its owner's Monster\
+    \ Zone: You can Special Summon 2 \"Virtual World\" monsters with the same Type\
+    \ and Attribute as each other from your Deck. You can only use this effect of\
+    \ \"Virtual World Phoenix - Fanfan\" once per turn."
+  earliest_release_date: '2020-11-05'
+  frameType: xyz
+  humanReadableCardType: Xyz Effect Monster
+  id: 27069566
+  name: Virtual World Phoenix - Fanfan
+  sets:
+  - code: MP21-EN193
+    name: 2021 Tin of Ancient Battles
+    rarity: Rare
+    tcg_date: '2021-09-30'
+  - code: PHRA-EN043
+    name: Phantom Rage
+    rarity: Ultra Rare
+    tcg_date: '2020-11-05'
+  type: XYZ Monster
+28803166:
+  description: "(This card is always treated as a \"Fiendsmith\" card.)\r\nIf this\
+    \ card is Normal or Special Summoned: You can send 1 \"Fiendsmith\" card from\
+    \ your Deck to the GY, except \"Lacrima the Crimson Tears\". During your opponent's\
+    \ turn, if this card is in your GY (Quick Effect): You can target 1 \"Fiendsmith\"\
+    \ Link Monster in your GY; shuffle this card into the Deck, and if you do, Special\
+    \ Summon that monster. You can only use each effect of \"Lacrima the Crimson Tears\"\
+    \ once per turn."
+  earliest_release_date: '2024-10-10'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 28803166
+  name: Lacrima the Crimson Tears
+  sets:
+  - code: MP25-EN100
+    name: 2025 Mega-Pack Tin
+    rarity: Prismatic Secret Rare
+    tcg_date: '2025-09-04'
+  - code: ROTA-EN014
+    name: Rage of the Abyss
+    rarity: Quarter Century Secret Rare
+    tcg_date: '2024-10-10'
+  - code: ROTA-EN014
+    name: Rage of the Abyss
+    rarity: Secret Rare
+    tcg_date: '2024-10-10'
+  type: Effect Monster
+29311166:
+  description: 'When this card destroys an opponent''s monster by battle: You can
+    Tribute this card; Special Summon 1 Dragon-Type monster from your hand or Graveyard,
+    except "Assault Wyvern".'
+  earliest_release_date: '2016-07-21'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 29311166
+  name: Assault Wyvern
+  sets:
+  - code: MVP1-EN003
+    name: Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+    rarity: Ultra Rare
+    tcg_date: '2016-07-21'
+  - code: MVP1-ENS03
+    name: Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+    rarity: Secret Rare
+    tcg_date: '2020-01-23'
+  - code: MVP1-ENG03
+    name: 'Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition'
+    rarity: Gold Rare
+    tcg_date: '2017-01-12'
+  type: Effect Monster
+30299166:
+  description: Once per turn, you can remove from play 1 Reptile-Type "Worm" monster
+    in your Graveyard to allow this card to attack twice during the same Battle Phase.
+  earliest_release_date: '2010-09-25'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 30299166
+  name: Worm Tentacles
+  sets:
+  - code: DT03-EN030
+    name: Duel Terminal 3
+    rarity: Duel Terminal Normal Parallel Rare
+    tcg_date: '2010-09-25'
+  - code: HA03-EN023
+    name: Hidden Arsenal 3
+    rarity: Super Rare
+    tcg_date: '2010-12-02'
+  type: Effect Monster
+30338466:
+  description: "Activate 1 of these effects.\r\n\u25CF Target 1 \"Bujin\" monster\
+    \ in your Graveyard; add that target to your hand.\r\n\u25CF Target 1 of your\
+    \ banished \"Bujin\" monsters; send that target to the Graveyard."
+  earliest_release_date: '2013-08-08'
+  frameType: trap
+  humanReadableCardType: Normal Trap
+  id: 30338466
+  name: Bujin Regalia - The Sword
+  sets:
+  - code: MP14-EN107
+    name: 2014 Mega-Tin Mega Pack
+    rarity: Common
+    tcg_date: '2014-08-28'
+  - code: JOTL-EN074
+    name: Judgment of the Light
+    rarity: Common
+    tcg_date: '2013-08-08'
+  type: Trap Card
+30451366:
+  description: You can substitute this card for any 1 Fusion-Material Monster. When
+    you do this, the other Fusion-Material Monster(s) must be the correct one(s).
+  earliest_release_date: '2002-10-01'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 30451366
+  name: 'Mystical Sheep #1'
+  sets:
+  - code: TP5-EN016
+    name: Tournament Pack 5
+    rarity: Common
+    tcg_date: '2004-11-01'
+  - code: TP2-013
+    name: 'Tournament Pack: 2nd Season'
+    rarity: Rare
+    tcg_date: '2002-10-01'
+  type: Effect Monster
+30794966:
+  description: You can Special Summon this card (from your hand) by banishing 1 LIGHT
+    Dragon-Type monster and 1 Dragon-Type Normal Monster from your Graveyard. If this
+    face-up card on the field would be destroyed, you can Tribute 1 face-up "Hieratic"
+    monster instead, except this card.
+  earliest_release_date: '2012-05-08'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 30794966
+  name: Hieratic Dragon of Asar
+  sets:
+  - code: GAOV-EN024
+    name: Galactic Overlord
+    rarity: Rare
+    tcg_date: '2012-05-08'
+  type: Effect Monster
+32022366:
+  description: The equipped monster gains 500 ATK. Monsters your opponent controls
+    cannot change their battle positions.
+  earliest_release_date: '2003-12-01'
+  frameType: spell
+  humanReadableCardType: Equip Spell
+  id: 32022366
+  name: Gravity Axe - Grarl
+  sets:
+  - code: STAX-EN027
+    name: 2-Player Starter Set
+    rarity: Common
+    tcg_date: '2024-01-26'
+  - code: BP02-EN143
+    name: 'Battle Pack 2: War of the Giants'
+    rarity: Common
+    tcg_date: '2013-06-28'
+  - code: BP02-EN143
+    name: 'Battle Pack 2: War of the Giants'
+    rarity: Mosaic Rare
+    tcg_date: '2013-06-28'
+  - code: DCR-034
+    name: Dark Crisis
+    rarity: Common
+    tcg_date: '2003-12-01'
+  - code: DCR-EN034
+    name: Dark Crisis
+    rarity: Common
+    tcg_date: '2003-12-01'
+  - code: DR1-EN196
+    name: Dark Revelation Volume 1
+    rarity: Common
+    tcg_date: '2005-03-19'
+  - code: LCYW-EN138
+    name: 'Legendary Collection 3: Yugi''s World Mega Pack'
+    rarity: Common
+    tcg_date: '2012-09-29'
+  - code: SBSC-EN039
+    name: 'Speed Duel: Scars of Battle'
+    rarity: Common
+    tcg_date: '2019-08-01'
+  - code: YS12-EN026
+    name: 'Starter Deck: Xyz Symphony'
+    rarity: Common
+    tcg_date: '2012-04-13'
+  type: Spell Card
+32036866:
+  description: 'If only your opponent controls a monster: Special Summon 1 "F.A."
+    monster from your hand, and if you do, increase its Level by 3 until the end of
+    this turn. If this card is in the GY and you control no cards in your Field Zone:
+    You can banish this card from the GY; activate 1 "F.A." Field Spell directly from
+    your hand or GY. You can only use this effect of "F.A. Overheat" once per turn.'
+  earliest_release_date: '2018-05-03'
+  frameType: trap
+  humanReadableCardType: Normal Trap
+  id: 32036866
+  name: F.A. Overheat
+  sets:
+  - code: MP19-EN064
+    name: 2019 Gold Sarcophagus Tin Mega Pack
+    rarity: Common
+    tcg_date: '2019-08-29'
+  - code: FLOD-EN091
+    name: Flames of Destruction
+    rarity: Rare
+    tcg_date: '2018-05-03'
+  type: Trap Card
+32360466:
+  description: Reveal 3 Warrior-Type monsters from your Deck, including at least 1
+    "Black Luster Soldier" monster or "Gaia The Fierce Knight" monster, and have your
+    opponent randomly pick 1. If they picked a "Black Luster Soldier" monster or "Gaia
+    The Fierce Knight" monster, add it to your hand and send the rest to the Graveyard.
+    Otherwise, send them all to the Graveyard. You can only activate 1 "Beginning
+    of Heaven and Earth" per turn.
+  earliest_release_date: '2017-02-09'
+  frameType: trap
+  humanReadableCardType: Normal Trap
+  id: 32360466
+  name: Beginning of Heaven and Earth
+  sets:
+  - code: MP17-EN225
+    name: 2017 Mega-Tin Mega Pack
+    rarity: Common
+    tcg_date: '2017-08-24'
+  - code: RATE-EN073
+    name: Raging Tempest
+    rarity: Common
+    tcg_date: '2017-02-09'
+  type: Trap Card
+32391566:
+  description: 'When your opponent Special Summons a monster(s), except during the
+    Damage Step: You can Special Summon this card from your hand, and if you do, your
+    opponent takes any effect damage you would have taken from their card effects
+    this turn, instead.'
+  earliest_release_date: '2010-11-11'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 32391566
+  name: Extra Veiler
+  sets:
+  - code: LC5D-EN064
+    name: Legendary Collection 5D's Mega Pack
+    rarity: Common
+    tcg_date: '2014-10-23'
+  - code: STBL-EN011
+    name: Starstrike Blast
+    rarity: Common
+    tcg_date: '2010-11-11'
+  type: Effect Monster
+32828466:
+  description: "1 \"Elemental HERO\" Fusion Monster + 1+ Warrior monsters\r\nMust\
+    \ be Fusion Summoned. Gains 300 ATK for each material used for its Summon. This\
+    \ card can make a number of attacks on monsters each Battle Phase, up to the number\
+    \ of Fusion Monsters used as material for its Summon. After damage calculation,\
+    \ if this card battled a monster: Destroy that monster, and if you do, inflict\
+    \ damage to your opponent equal to its original ATK. If this Fusion Summoned card\
+    \ is destroyed: Special Summon 1 Warrior monster from your hand or Deck."
+  earliest_release_date: '2023-03-09'
+  frameType: fusion
+  humanReadableCardType: Fusion Effect Monster
+  id: 32828466
+  name: Wake Up Your Elemental HERO
+  sets:
+  - code: MP24-EN018
+    name: '25th Anniversary Tin: Dueling Mirrors'
+    rarity: Quarter Century Secret Rare
+    tcg_date: '2024-09-19'
+  - code: MAZE-EN014
+    name: Maze of Memories
+    rarity: Collector's Rare
+    tcg_date: '2023-03-09'
+  - code: MAZE-EN014
+    name: Maze of Memories
+    rarity: Ultra Rare
+    tcg_date: '2023-03-09'
+  type: Fusion Monster
+33438666:
+  description: 'If a monster(s) you control would be destroyed by battle or an opponent''s
+    card effect, you can pay 1000 LP for each monster that would be destroyed, instead
+    (you must protect all your monsters that would be destroyed, if you use this effect).
+    At the end of the Battle Phase, if this card destroyed any monster(s) by battle:
+    You can Special Summon them from the GYs to your field.'
+  earliest_release_date: '2018-05-24'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 33438666
+  name: Vampire Grimson
+  sets:
+  - code: MP19-EN236
+    name: 2019 Gold Sarcophagus Tin Mega Pack
+    rarity: Common
+    tcg_date: '2019-08-29'
+  - code: DASA-EN004
+    name: Dark Saviors
+    rarity: Super Rare
+    tcg_date: '2018-05-24'
+  type: Effect Monster
+33760966:
+  description: "1 \"Dracotail\" monster + 1+ monsters in the hand\r\nIf this card\
+    \ is Fusion Summoned: You can target monsters on the field and/or GYs, up to the\
+    \ number of monsters used as material from the hand; return them to the hand.\
+    \ If 2 or more monsters are sent to the GY at the same time, while this card is\
+    \ in your GY (except during the Damage Step): You can Special Summon this card,\
+    \ but banish it when it leaves the field. You can only use each effect of \"Dracotail\
+    \ Arthalion\" once per turn."
+  earliest_release_date: '2025-07-31'
+  frameType: fusion
+  humanReadableCardType: Fusion Effect Monster
+  id: 33760966
+  name: Dracotail Arthalion
+  sets:
+  - code: JUSH-EN006
+    name: Justice Hunters
+    rarity: Collector's Rare
+    tcg_date: '2025-07-31'
+  - code: JUSH-EN006
+    name: Justice Hunters
+    rarity: Starlight Rare
+    tcg_date: '2025-07-31'
+  - code: JUSH-EN006
+    name: Justice Hunters
+    rarity: Ultra Rare
+    tcg_date: '2025-07-31'
+  type: Fusion Monster
+34659866:
+  description: If this card is used for a Synchro Summon and sent to the Graveyard,
+    the owner of this card draws 1 card.
+  earliest_release_date: '2009-09-01'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 34659866
+  name: Darksea Rescue
+  sets:
+  - code: ANPR-EN013
+    name: Ancient Prophecy
+    rarity: Rare
+    tcg_date: '2009-09-01'
+  type: Effect Monster
+34853266:
+  description: 'Cannot be Special Summoned. If this card is Normal Summoned or flipped
+    face-up: Target 1 face-up monster on the field; change that target to face-down
+    Defense Position. Once per turn, during the End Phase, if this card was Normal
+    Summoned or flipped face-up this turn: Return it to the hand.'
+  earliest_release_date: '2003-12-01'
+  frameType: effect
+  humanReadableCardType: Spirit Effect Monster
+  id: 34853266
+  name: Tsukuyomi
+  sets:
+  - code: AP01-EN001
+    name: Astral Pack One
+    rarity: Ultimate Rare
+    tcg_date: '2012-11-23'
+  - code: DCR-075
+    name: Dark Crisis
+    rarity: Rare
+    tcg_date: '2003-12-01'
+  - code: DCR-EN075
+    name: Dark Crisis
+    rarity: Rare
+    tcg_date: '2003-12-01'
+  - code: DR1-EN237
+    name: Dark Revelation Volume 1
+    rarity: Common
+    tcg_date: '2005-03-19'
+  - code: DUSA-EN052
+    name: Duelist Saga
+    rarity: Ultra Rare
+    tcg_date: '2017-03-30'
+  - code: SD6-EN011
+    name: 'Structure Deck: Spellcaster''s Judgment'
+    rarity: Common
+    tcg_date: '2006-01-18'
+  type: Spirit Monster
+37495766:
+  description: 'You can banish 2 "Rescue-ACE" cards from your GY; Special Summon this
+    card from your hand. During your Main Phase: You can Set up to 4 "Rescue-ACE"
+    Quick-Play Spells / Normal Traps, with different names, directly from your Deck.
+    If another card(s) you control leaves the field by an opponent''s card effect
+    (except during the Damage Step): You can target 1 card on the field; destroy it.
+    You can only use each effect of "Rescue-ACE Turbulence" once per turn.'
+  earliest_release_date: '2023-01-19'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 37495766
+  name: Rescue-ACE Turbulence
+  sets:
+  - code: AMDE-EN007
+    name: Amazing Defenders
+    rarity: Collector's Rare
+    tcg_date: '2023-01-19'
+  - code: AMDE-EN007
+    name: Amazing Defenders
+    rarity: Ultra Rare
+    tcg_date: '2023-01-19'
+  - code: MZMI-EN077
+    name: Maze of Millennia
+    rarity: Super Rare
+    tcg_date: '2024-01-18'
+  type: Effect Monster
+39778366:
+  description: 'Target up to 3 of your banished LIGHT Machine-Type Normal Monsters
+    and/or LIGHT Machine-Type Union monsters; Special Summon them. During either player''s
+    turn, except the turn this card was sent to the Graveyard: You can banish this
+    card from your Graveyard, then target 1 of your banished LIGHT Machine-Type Normal
+    Monsters or LIGHT Machine-Type Union monsters; return it to the hand. You can
+    only activate 1 "Union Scramble" per turn.'
+  earliest_release_date: '2016-10-20'
+  frameType: trap
+  humanReadableCardType: Normal Trap
+  id: 39778366
+  name: Union Scramble
+  sets:
+  - code: MAGO-EN104
+    name: Maximum Gold
+    rarity: Rare
+    tcg_date: '2020-11-12'
+  - code: STP4-EN015
+    name: Speed Duel Tournament Pack 4
+    rarity: Super Rare
+    tcg_date: '2022-09-29'
+  - code: SBCB-EN082
+    name: 'Speed Duel: Battle City Box'
+    rarity: Common
+    tcg_date: '2020-11-26'
+  - code: SDKS-EN030
+    name: 'Structure Deck: Seto Kaiba'
+    rarity: Common
+    tcg_date: '2016-10-20'
+  type: Trap Card
+39905966:
+  description: 'When this card is Summoned: You can target 1 "Gishki" Ritual Monster
+    or "Gishki" Ritual Spell Card in your Graveyard; add that target to your hand.'
+  earliest_release_date: '2011-09-29'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 39905966
+  name: Gishki Marker
+  sets:
+  - code: DT05-EN066
+    name: Duel Terminal 5b
+    rarity: Duel Terminal Rare Parallel Rare
+    tcg_date: '2011-09-29'
+  - code: HA05-EN033
+    name: 'Hidden Arsenal 5: Steelswarm Invasion'
+    rarity: Super Rare
+    tcg_date: '2011-12-01'
+  type: Effect Monster
+41403766:
+  description: '''''An extraordinary blue scorpion found in the tundra, not in the
+    desert.'''''
+  earliest_release_date: '9999-12-31'
+  frameType: normal
+  humanReadableCardType: Normal Monster
+  id: 41403766
+  name: Giant Scorpion of the Tundra
+  sets: []
+  type: Normal Monster
+41589166:
+  description: This card is unaffected by the effects of Trap Cards.
+  earliest_release_date: '2006-02-18'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 41589166
+  name: Tenkabito Shien
+  sets:
+  - code: DR04-EN137
+    name: Dark Revelation Volume 4
+    rarity: Rare
+    tcg_date: '2007-11-14'
+  - code: SOI-EN017
+    name: Shadow of Infinity
+    rarity: Common
+    tcg_date: '2006-02-18'
+  type: Effect Monster
+41850466:
+  description: 'If a face-up "Number C1: Numeron Chaos Gate Sunya" you control was
+    destroyed by a monster effect this turn: You can target 1 of your "Numeron Network",
+    and 4 of your "Number" Xyz Monsters, that are banished or in your GY; Special
+    Summon 1 "Number C1000: Numerounius" from the Extra Deck that becomes 10,000 ATK/1000
+    DEF, and if you do, attach all 5 targets to it as material, also you can only
+    Normal or Special Summon once for the rest of this turn.'
+  earliest_release_date: '2021-11-18'
+  frameType: spell
+  humanReadableCardType: Normal Spell
+  id: 41850466
+  name: Numeron Chaos Ritual
+  sets:
+  - code: MGED-EN050
+    name: 'Maximum Gold: El Dorado'
+    rarity: Premium Gold Rare
+    tcg_date: '2021-11-18'
+  type: Spell Card
+42097666:
+  description: "1 Level 4 or lower Dragon or Spellcaster monster\r\nYou cannot Special\
+    \ Summon, except Dragon monsters. You can only use each of the following effects\
+    \ of \"Spirit with Eyes of Blue\" once per turn. If this card is Link Summoned:\
+    \ You can take 1 \"Mausoleum of White\" from your Deck and either add it to your\
+    \ hand or send it to the GY. You can Tribute this card; Special Summon 1 \"Blue-Eyes\"\
+    \ monster from your hand or GY, but if you Special Summoned an Effect Monster\
+    \ from your GY by this effect, it cannot attack and its effects are negated."
+  earliest_release_date: '2025-02-13'
+  frameType: link
+  humanReadableCardType: Link Effect Monster
+  id: 42097666
+  name: Spirit with Eyes of Blue
+  sets:
+  - code: MP25-EN049
+    name: 2025 Mega-Pack Tin
+    rarity: Starlight Rare
+    tcg_date: '2025-09-04'
+  - code: SDWD-EN033
+    name: 'Structure Deck: Blue-Eyes White Destiny'
+    rarity: Ultra Rare
+    tcg_date: '2025-02-13'
+  type: Link Monster
+42228966:
+  description: 'During your Main Phase 2, if no monsters battled each other this turn:
+    You can discard 1 card; Set 1 "Battlefield Tragedy" directly from your Deck to
+    your Spell & Trap Zone. You can only use this effect of "Battlefield Tragedy"
+    once per turn. Once per turn, during the End Phase, if any monsters battled each
+    other this turn: The turn player sends 5 cards from the top of their Deck to the
+    GY.'
+  earliest_release_date: '2023-06-22'
+  frameType: spell
+  humanReadableCardType: Continuous Spell
+  id: 42228966
+  name: Battlefield Tragedy
+  sets:
+  - code: BLMR-EN018
+    name: 'Battles of Legend: Monstrous Revenge'
+    rarity: Secret Rare
+    tcg_date: '2023-06-22'
+  type: Spell Card
+43318266:
+  description: This card cannot be destroyed by battle. If this card is in face-up
+    Defense Position, destroy it. When you Normal Summon this card, place 1 Fog Counter
+    on it for each "Cloudian" monster on the field. You can remove 2 Fog Counters
+    from this card to destroy 1 monster on the field.
+  earliest_release_date: '2007-11-14'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 43318266
+  name: Cloudian - Cirrostratus
+  sets:
+  - code: GLAS-EN011
+    name: Gladiator's Assault
+    rarity: Rare
+    tcg_date: '2007-11-14'
+  - code: SGX3-ENH05
+    name: 'Speed Duel GX: Duelists of Shadows'
+    rarity: Common
+    tcg_date: '2023-03-30'
+  type: Effect Monster
+44405066:
+  description: '2 Level 7 monsters
+
+    Cannot be destroyed by card effects while it has Xyz Material. While this card
+    has Xyz Material, each time your opponent activates a card or effect, inflict
+    500 damage to your opponent immediately after it resolves. Once per turn, during
+    either player''s turn: You can detach 1 Xyz Material from this card, then target
+    1 "Red-Eyes" Normal Monster in your Graveyard; Special Summon it.'
+  earliest_release_date: '2015-08-06'
+  frameType: xyz
+  humanReadableCardType: Xyz Effect Monster
+  id: 44405066
+  name: Red-Eyes Flare Metal Dragon
+  sets:
+  - code: RA01-EN038
+    name: 25th Anniversary Rarity Collection
+    rarity: Super Rare
+    tcg_date: '2023-11-02'
+  - code: RA01-EN038
+    name: 25th Anniversary Rarity Collection
+    rarity: Ultra Rare
+    tcg_date: '2023-11-02'
+  - code: CORE-EN054
+    name: Clash of Rebellions
+    rarity: Ghost Rare
+    tcg_date: '2015-08-06'
+  - code: CORE-EN054
+    name: Clash of Rebellions
+    rarity: Secret Rare
+    tcg_date: '2015-08-06'
+  - code: CORE-EN054
+    name: Clash of Rebellions
+    rarity: Ultimate Rare
+    tcg_date: '2015-08-06'
+  - code: LDK2-ENJ41
+    name: Legendary Decks II
+    rarity: Ultra Rare
+    tcg_date: '2016-10-06'
+  - code: LDS1-EN015
+    name: 'Legendary Duelists: Season 1'
+    rarity: Ultra Rare
+    tcg_date: '2020-07-02'
+  - code: PGL3-EN078
+    name: 'Premium Gold: Infinite Gold'
+    rarity: Gold Rare
+    tcg_date: '2016-03-17'
+  type: XYZ Monster
+45045866:
+  description: During battle between this attacking card and a Defense Position monster
+    whose DEF is lower than the ATK of this card, inflict the difference as Battle
+    Damage to your opponent. When this card is destroyed by battle, add 1 "Thousand-Eyes
+    Jellyfish" or 1 "Cranium Fish" from your Deck to your hand.
+  earliest_release_date: '2007-08-15'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 45045866
+  name: Ocean's Keeper
+  sets:
+  - code: TAEV-EN081
+    name: Tactical Evolution
+    rarity: Rare
+    tcg_date: '2007-08-15'
+  type: Effect Monster
+45711266:
+  description: If this card is attacked, return the attacking monster to the hand
+    after damage calculation and this card gains DEF equal to the returned monster's
+    Level x 100.
+  earliest_release_date: '2010-09-25'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 45711266
+  name: Jurrac Ptera
+  sets:
+  - code: DT03-EN013
+    name: Duel Terminal 3
+    rarity: Duel Terminal Normal Parallel Rare
+    tcg_date: '2010-09-25'
+  - code: HA03-EN006
+    name: Hidden Arsenal 3
+    rarity: Super Rare
+    tcg_date: '2010-12-02'
+  type: Effect Monster
+46576366:
+  description: 'If this card is Special Summoned: You can add 1 "Lyrilusc" Spell/Trap
+    from your Deck to your hand. If this card is in your GY: You can target 1 "Lyrilusc"
+    Xyz Monster you control; attach this card to it as material. You can only use
+    each effect of "Lyrilusc - Celestine Wagtail" once per turn.'
+  earliest_release_date: '2021-10-28'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 46576366
+  name: Lyrilusc - Celestine Wagtail
+  sets:
+  - code: LED8-EN036
+    name: 'Legendary Duelists: Synchro Storm'
+    rarity: Ultra Rare
+    tcg_date: '2021-10-28'
+  type: Effect Monster
+47687766:
+  description: 'When this card is Normal Summoned: You can add 1 Level 4 EARTH Machine-Type
+    monster from your Deck to your hand, except "Geargiauger", also you cannot declare
+    attacks, nor Special Summon monsters except Machine-Type monsters, for the rest
+    of this turn.'
+  earliest_release_date: '2014-10-16'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 47687766
+  name: Geargiauger
+  sets:
+  - code: SDGR-EN003
+    name: Geargia Rampage Structure Deck
+    rarity: Ultra Rare
+    tcg_date: '2014-10-16'
+  - code: SR03-EN012
+    name: Machine Reactor Structure Deck
+    rarity: Common
+    tcg_date: '2017-04-13'
+  type: Effect Monster
+48739166:
+  description: '2 Level 4 monsters
+
+    You can detach 2 materials from this card, then target 1 Special Summoned monster
+    your opponent controls in face-up Attack Position; attach it to this card as material.
+    You can only use this effect of "Number 101: Silent Honor ARK" once per turn.
+    If this face-up card on the field would be destroyed by battle or card effect,
+    you can detach 1 material from this card instead.'
+  earliest_release_date: '2014-01-24'
+  frameType: xyz
+  humanReadableCardType: Xyz Effect Monster
+  id: 48739166
+  name: 'Number 101: Silent Honor ARK'
+  sets:
+  - code: MP14-EN219
+    name: 2014 Mega-Tin Mega Pack
+    rarity: Ultra Rare
+    tcg_date: '2014-08-28'
+  - code: DUDE-EN017
+    name: Duel Devastator
+    rarity: Ultra Rare
+    tcg_date: '2019-10-10'
+  - code: LVAL-EN047
+    name: Legacy of the Valiant
+    rarity: Ultimate Rare
+    tcg_date: '2014-01-24'
+  - code: LVAL-EN047
+    name: Legacy of the Valiant
+    rarity: Ultra Rare
+    tcg_date: '2014-01-24'
+  - code: LED9-EN000
+    name: 'Legendary Duelists: Duels From the Deep'
+    rarity: Ghost Rare
+    tcg_date: '2022-06-16'
+  - code: MAGO-EN060
+    name: Maximum Gold
+    rarity: Rare
+    tcg_date: '2020-11-12'
+  - code: PGL2-EN046
+    name: 'Premium Gold: Return of the Bling'
+    rarity: Gold Rare
+    tcg_date: '2015-03-19'
+  - code: RA04-EN211
+    name: Quarter Century Stampede
+    rarity: Platinum Secret Rare
+    tcg_date: '2025-04-10'
+  - code: RA04-EN211
+    name: Quarter Century Stampede
+    rarity: Quarter Century Secret Rare
+    tcg_date: '2025-04-10'
+  - code: WIRA-EN047
+    name: Wing Raiders
+    rarity: Super Rare
+    tcg_date: '2016-02-11'
+  type: XYZ Monster
+48814566:
+  description: Banish any number of cards from your Extra Deck face-down, and banish
+    the same number of random face-down cards from your opponent's Extra Deck, face-up,
+    until the End Phase. You can only activate 1 "Banquet of Millions" per turn.
+  earliest_release_date: '2020-11-05'
+  frameType: trap
+  humanReadableCardType: Normal Trap
+  id: 48814566
+  name: Banquet of Millions
+  sets:
+  - code: PHRA-EN079
+    name: Phantom Rage
+    rarity: Common
+    tcg_date: '2020-11-05'
+  type: Trap Card
+48964966:
+  description: 'If another Fairy monster(s) is Summoned: Inflict 600 damage to your
+    opponent. Once per turn: You can send 1 face-up Fairy monster you control to the
+    GY, except "Athena", then target 1 Fairy monster in your GY, except "Athena";
+    Special Summon that target.'
+  earliest_release_date: '2008-07-31'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 48964966
+  name: Athena
+  sets:
+  - code: DT06-EN004
+    name: Duel Terminal 6a
+    rarity: Duel Terminal Normal Parallel Rare
+    tcg_date: '2012-02-03'
+  - code: SDLS-EN012
+    name: Lost Sanctuary Structure Deck
+    rarity: Common
+    tcg_date: '2011-06-10'
+  - code: PP02-EN018
+    name: Premium Pack 2 (TCG)
+    rarity: Secret Rare
+    tcg_date: '2008-07-31'
+  - code: SR05-EN013
+    name: 'Structure Deck: Wave of Light'
+    rarity: Common
+    tcg_date: '2018-01-18'
+  type: Effect Monster
+49139666:
+  description: 'If a monster Special Summoned from the Extra Deck is on the field:
+    You can Special Summon this card from your hand. During your Main Phase: You can
+    reduce the Levels of all other monsters on the field by 1, and if you do, increase
+    the Level of this card by the number of monsters whose Levels were reduced by
+    this effect. During your Battle Phase or your opponent''s Main Phase, if this
+    card''s Level is 8 or higher (Quick Effect): You can destroy 1 other card on the
+    field, and if you do, this card''s Level becomes 5. You can only use each effect
+    of "E Stranger Big Bang" once per turn.'
+  earliest_release_date: '2024-02-08'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 49139666
+  name: E Stranger Big Bang
+  sets:
+  - code: PHNI-EN028
+    name: Phantom Nightmare
+    rarity: Common
+    tcg_date: '2024-02-08'
+  type: Effect Monster
+49881766:
+  description: An expert at battle who belongs to a crack diabolical unit. He's famous
+    because he always gets the job done.
+  earliest_release_date: '2003-12-01'
+  frameType: normal
+  humanReadableCardType: Normal Monster
+  id: 49881766
+  name: Archfiend Soldier
+  sets:
+  - code: YS15-END02
+    name: '2-Player Starter Deck: Yuya & Declan'
+    rarity: Common
+    tcg_date: '2015-05-28'
+  - code: BP01-EN112
+    name: 'Battle Pack: Epic Dawn'
+    rarity: Common
+    tcg_date: '2012-05-24'
+  - code: BP01-EN112
+    name: 'Battle Pack: Epic Dawn'
+    rarity: Starfoil Rare
+    tcg_date: '2012-05-24'
+  - code: DCR-057
+    name: Dark Crisis
+    rarity: Rare
+    tcg_date: '2003-12-01'
+  - code: DCR-EN057
+    name: Dark Crisis
+    rarity: Rare
+    tcg_date: '2003-12-01'
+  - code: YS15-ENL02
+    name: Dark Legion Starter Deck
+    rarity: Common
+    tcg_date: '2015-05-29'
+  - code: DR1-EN219
+    name: Dark Revelation Volume 1
+    rarity: Common
+    tcg_date: '2005-03-19'
+  - code: SGX3-ENE02
+    name: 'Speed Duel GX: Duelists of Shadows'
+    rarity: Common
+    tcg_date: '2023-03-30'
+  - code: YSDS-EN005
+    name: 'Starter Deck: Syrus Truesdale'
+    rarity: Common
+    tcg_date: '2007-07-25'
+  type: Normal Monster
+50412166:
+  description: 'During either player''s turn: You can discard this card; until the
+    End Phase, "Gravekeeper''s" monsters you control cannot be destroyed by battle.'
+  earliest_release_date: '2003-07-18'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 50412166
+  name: Charm of Shabti
+  sets:
+  - code: DR1-EN022
+    name: Dark Revelation Volume 1
+    rarity: Common
+    tcg_date: '2005-03-19'
+  - code: LCYW-EN190
+    name: 'Legendary Collection 3: Yugi''s World Mega Pack'
+    rarity: Common
+    tcg_date: '2012-09-29'
+  - code: PGD-074
+    name: Pharaonic Guardian
+    rarity: Common
+    tcg_date: '2003-07-18'
+  type: Effect Monster
+51227866:
+  description: 'If you control no monsters in your Main Monster Zone: Target 1 monster
+    in your opponent''s GY; banish that monster, or, if you have 3 or more Spells
+    in your GY, you can Special Summon that monster to your field instead, but it
+    cannot attack.'
+  earliest_release_date: '2018-05-24'
+  frameType: spell
+  humanReadableCardType: Quick-Play Spell
+  id: 51227866
+  name: Sky Striker Mecha - Shark Cannon
+  sets:
+  - code: MP19-EN266
+    name: 2019 Gold Sarcophagus Tin Mega Pack
+    rarity: Common
+    tcg_date: '2019-08-29'
+  - code: DASA-EN036
+    name: Dark Saviors
+    rarity: Secret Rare
+    tcg_date: '2018-05-24'
+  - code: MAMA-EN011
+    name: Magnificent Mavens
+    rarity: Ultra Rare
+    tcg_date: '2022-11-03'
+  type: Spell Card
+52945066:
+  description: 'If you control a "Marincess" Link Monster: Target 1 face-up monster
+    your opponent controls; negate that face-up monster''s effects until the end of
+    this turn, then, if you control a Link-2 or higher "Marincess" monster, all face-up
+    monsters you currently control are unaffected by your opponent''s card effects
+    until the end of this turn. If you control a Link-3 or higher "Marincess" monster,
+    you can activate this card from your hand.'
+  earliest_release_date: '2019-07-26'
+  frameType: trap
+  humanReadableCardType: Normal Trap
+  id: 52945066
+  name: Marincess Wave
+  sets:
+  - code: MP20-EN133
+    name: 2020 Tin of Lost Memories Mega Pack
+    rarity: Rare
+    tcg_date: '2020-08-27'
+  - code: LED9-EN045
+    name: 'Legendary Duelists: Duels From the Deep'
+    rarity: Common
+    tcg_date: '2022-06-16'
+  - code: RIRA-EN068
+    name: Rising Rampage
+    rarity: Ultra Rare
+    tcg_date: '2019-07-26'
+  type: Trap Card
+53404966:
+  description: 'You can banish this card from your hand or GY; Special Summon 1 Level
+    4 or lower FIRE Warrior monster from your hand as a Tuner. If this card is Normal
+    or Special Summoned: You can target 1 Level 4 or lower FIRE Warrior monster in
+    your GY, except "Infernoble Knight Ricciardetto"; Special Summon it, also you
+    cannot Special Summon monsters for the rest of this turn, except Warrior monsters.
+    You can only use 1 "Infernoble Knight Ricciardetto" effect per turn, and only
+    once that turn.'
+  earliest_release_date: '2023-07-27'
+  frameType: effect
+  humanReadableCardType: Tuner Effect Monster
+  id: 53404966
+  name: Infernoble Knight Ricciardetto
+  sets:
+  - code: MP24-EN211
+    name: '25th Anniversary Tin: Dueling Mirrors'
+    rarity: Ultra Rare
+    tcg_date: '2024-09-19'
+  - code: DUNE-EN013
+    name: Duelist Nexus
+    rarity: Super Rare
+    tcg_date: '2023-07-27'
+  type: Tuner Monster
+56832966:
+  description: "3 Level 5 LIGHT monsters\r\nYou can also Xyz Summon this card by using\
+    \ a Rank 4 \"Utopia\" monster you control as material. (Transfer its materials\
+    \ to this card.) Cannot be used as material for an Xyz Summon. If this card battles,\
+    \ your opponent cannot activate cards or effects until the end of the Damage Step.\
+    \ Once per Chain, during damage calculation, if this card battles an opponent's\
+    \ monster while this card has a \"Utopia\" Xyz Monster as material (Quick Effect):\
+    \ You can detach 2 materials from this card; this card's ATK becomes 5000 during\
+    \ that damage calculation only."
+  earliest_release_date: '2016-03-01'
+  frameType: xyz
+  humanReadableCardType: Xyz Effect Monster
+  id: 56832966
+  name: 'Number S39: Utopia the Lightning'
+  sets:
+  - code: BLAR-EN070
+    name: 'Battles of Legend: Armageddon'
+    rarity: Ultra Rare
+    tcg_date: '2020-07-23'
+  - code: BLC1-EN150
+    name: 'Battles of Legend: Chapter 1'
+    rarity: Common
+    tcg_date: '2024-02-22'
+  - code: LCKC-EN087
+    name: Legendary Collection Kaiba Mega Pack
+    rarity: Secret Rare
+    tcg_date: '2018-03-08'
+  - code: MAGO-EN034
+    name: Maximum Gold
+    rarity: Premium Gold Rare
+    tcg_date: '2020-11-12'
+  - code: OP04-EN001
+    name: OTS Tournament Pack 4
+    rarity: Ultimate Rare
+    tcg_date: '2017-04-06'
+  - code: RA04-EN251
+    name: Quarter Century Stampede
+    rarity: Platinum Secret Rare
+    tcg_date: '2025-04-10'
+  - code: RA04-EN251
+    name: Quarter Century Stampede
+    rarity: Quarter Century Secret Rare
+    tcg_date: '2025-04-10'
+  - code: TDIL-ENSE2
+    name: 'The Dark Illusion: Special Edition'
+    rarity: Super Rare
+    tcg_date: '2016-09-15'
+  - code: YZ08-EN001
+    name: Yu-Gi-Oh! ZEXAL Volume 8 promotional card
+    rarity: Ultra Rare
+    tcg_date: '2016-03-01'
+  type: XYZ Monster
+57421866:
+  description: 'If this card is in your Graveyard: You can target 1 Level 5 or higher
+    monster you control; reduce its Level by 1, and if you do, Special Summon this
+    card. This face-up card on the field cannot be Tributed, except for a Tribute
+    Summon.'
+  earliest_release_date: '2009-11-17'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 57421866
+  name: Level Eater
+  sets:
+  - code: BP01-EN209
+    name: 'Battle Pack: Epic Dawn'
+    rarity: Common
+    tcg_date: '2012-05-24'
+  - code: BP01-EN209
+    name: 'Battle Pack: Epic Dawn'
+    rarity: Starfoil Rare
+    tcg_date: '2012-05-24'
+  - code: DT05-EN005
+    name: Duel Terminal 5a
+    rarity: Duel Terminal Normal Parallel Rare
+    tcg_date: '2011-05-29'
+  - code: DPCT-ENY07
+    name: Duelist Pack Collection Tin 2010
+    rarity: Super Rare
+    tcg_date: '2010-03-05'
+  - code: DP09-EN011
+    name: 'Duelist Pack: Yusei 2'
+    rarity: Common
+    tcg_date: '2010-01-15'
+  - code: SR01-EN020
+    name: Emperor of Darkness Structure Deck
+    rarity: Common
+    tcg_date: '2016-01-28'
+  - code: LC5D-EN014
+    name: Legendary Collection 5D's Mega Pack
+    rarity: Rare
+    tcg_date: '2014-10-23'
+  - code: SOVR-EN005
+    name: Stardust Overdrive
+    rarity: Common
+    tcg_date: '2009-11-17'
+  - code: SDSE-EN017
+    name: Synchron Extreme Structure Deck
+    rarity: Common
+    tcg_date: '2015-08-27'
+  type: Effect Monster
+57433966:
+  description: Discard 1 Level 5 or higher "Danger!" monster; add 1 Level 4 or lower
+    "Danger!" monster from your Deck to your hand. You cannot Special Summon monsters
+    for the rest of this turn after this card resolves, except "Danger!" monsters.
+    You can only activate 1 "Danger! Excitement! Mystery!" per turn.
+  earliest_release_date: '2019-05-02'
+  frameType: spell
+  humanReadableCardType: Normal Spell
+  id: 57433966
+  name: Danger! Excitement! Mystery!
+  sets:
+  - code: MP20-EN085
+    name: 2020 Tin of Lost Memories Mega Pack
+    rarity: Rare
+    tcg_date: '2020-08-27'
+  - code: DANE-EN083
+    name: Dark Neostorm
+    rarity: Ultra Rare
+    tcg_date: '2019-05-02'
+  type: Spell Card
+58143766:
+  description: "Activate 1 of these effects (but you can only use each effect of \"\
+    Volcanic Emission\" once per turn);\r\n\u25CF Take 1 \"Volcanic\" monster from\
+    \ your Deck, and either add it to your hand or Special Summon it, ignoring its\
+    \ Summoning conditions, but return it to the hand during the End Phase.\r\n\u25CF\
+    \ Target 1 Pyro monster on the field; inflict damage to your opponent equal to\
+    \ that monster's original ATK, or if you targeted a monster you control, the damage\
+    \ is halved."
+  earliest_release_date: '2023-08-10'
+  frameType: trap
+  humanReadableCardType: Normal Trap
+  id: 58143766
+  name: Volcanic Emission
+  sets:
+  - code: LD10-EN023
+    name: 'Legendary Duelists: Soulburning Volcano'
+    rarity: Super Rare
+    tcg_date: '2023-08-10'
+  type: Trap Card
+59156966:
+  description: Select 1 face-up "Karakuri" monster on the field. It gains 500 ATK
+    and 1500 DEF, until the End Phase.
+  earliest_release_date: '2010-11-11'
+  frameType: spell
+  humanReadableCardType: Quick-Play Spell
+  id: 59156966
+  name: Golden Gearbox
+  sets:
+  - code: STBL-EN047
+    name: Starstrike Blast
+    rarity: Common
+    tcg_date: '2010-11-11'
+  type: Spell Card
+59251766:
+  description: 'During either player''s turn: You can banish this card from your Graveyard,
+    then target 1 Beast-Warrior-Type "Bujin" monster you control; once during this
+    turn, it cannot be destroyed by battle or by card effects. You can only use the
+    effect of "Bujingi Hare" once per turn.'
+  earliest_release_date: '2014-01-24'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 59251766
+  name: Bujingi Hare
+  sets:
+  - code: MP14-EN211
+    name: 2014 Mega-Tin Mega Pack
+    rarity: Super Rare
+    tcg_date: '2014-08-28'
+  - code: LVAL-EN030
+    name: Legacy of the Valiant
+    rarity: Super Rare
+    tcg_date: '2014-01-24'
+  type: Effect Monster
+60158866:
+  description: "Target 1 \"Number\" Xyz Monster you control that has a number between\
+    \ \"101\" and \"107\" in its name, or 1 Xyz Monster you control that has any such\
+    \ monsters as material, then activate 1 of these effects;\r\n\u25CF Negate the\
+    \ effects of 1 monster your opponent controls with ATK less than or equal to the\
+    \ targeted monster's ATK, until the end of this turn.\r\n\u25CF Detach all materials\
+    \ from the targeted monster, then you can Special Summon 1 \"Number\" Xyz Monster\
+    \ from your GY.\r\nYou can only use this effect of \"Seventh Eternity\" once per\
+    \ turn."
+  earliest_release_date: '2022-06-16'
+  frameType: trap
+  humanReadableCardType: Continuous Trap
+  id: 60158866
+  name: Seventh Eternity
+  sets:
+  - code: LED9-EN007
+    name: 'Legendary Duelists: Duels From the Deep'
+    rarity: Rare
+    tcg_date: '2022-06-16'
+  type: Trap Card
+60362066:
+  description: 'Target 1 Spell/Trap on the field, or you can target 2 if you control
+    "Visas Starfrost"; shuffle them into the Deck, then send 1 card from your hand
+    to the GY. If this card is sent to the GY by card effect: You can target 1 "Tearlaments"
+    Trap in your GY; add it to your hand. You can only use 1 "Tearlaments Heartbeat"
+    effect per turn, and only once that turn.'
+  earliest_release_date: '2022-10-20'
+  frameType: spell
+  humanReadableCardType: Quick-Play Spell
+  id: 60362066
+  name: Tearlaments Heartbeat
+  sets:
+  - code: DABL-EN057
+    name: Darkwing Blast
+    rarity: Common
+    tcg_date: '2022-10-20'
+  type: Spell Card
+60668166:
+  description: If this card is sent from the field to the Graveyard by your opponent's
+    card (including by battle, card effect, or by being destroyed), you can Special
+    Summon up to 2 "Naturia Cherries" from your Deck in face-down Defense Position.
+  earliest_release_date: '2010-11-11'
+  frameType: effect
+  humanReadableCardType: Tuner Effect Monster
+  id: 60668166
+  name: Naturia Cherries
+  sets:
+  - code: HAC1-EN116
+    name: 'Hidden Arsenal: Chapter 1'
+    rarity: Duel Terminal Ultra Parallel Rare
+    tcg_date: '2022-02-24'
+  - code: STBL-EN030
+    name: Starstrike Blast
+    rarity: Super Rare
+    tcg_date: '2010-11-11'
+  type: Tuner Monster
+61944066:
+  description: 'While you control a "Nouvelles" Monster Card, all face-up monsters
+    your opponent controls are changed to Attack Position. Each time a monster(s)
+    is Tributed by a Ritual Monster''s effect, your opponent pays 850 LP. Once per
+    turn, if you Special Summon a Ritual Monster(s) (except during the Damage Step):
+    You can target 1 of them; add 1 "Recipe" or "Nouvelles" card from your Deck to
+    your hand, except a Continuous Spell, and if you do, increase that monster''s
+    Level by 1. You can only activate 1 "Nouvelles Recipe Book "Recettes de Nouvellez""
+    per turn.'
+  earliest_release_date: '9999-12-31'
+  frameType: spell
+  humanReadableCardType: Continuous Spell
+  id: 61944066
+  name: Nouvelles Recipe Book "Recettes de Nouvellez"
+  sets: []
+  type: Spell Card
+62006866:
+  description: "If this card is Normal or Special Summoned: You can activate 1 of\
+    \ these effects;\r\n\u25CF Add 1 \"Zubaba\" monster from your Deck to your hand,\
+    \ except \"Zubababa Knight\". This card's Level becomes that added monster's Level.\r\
+    \n\u25CF Destroy 1 Level 4 or lower Defense Position monster your opponent controls.\r\
+    \nIf this card is detached from an Xyz Monster to activate that monster's effect:\
+    \ You can add 1 \"Gagaga\" monster from your Deck to your hand. You can only use\
+    \ each effect of \"Zubababa Knight\" once per turn."
+  earliest_release_date: '2025-07-03'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 62006866
+  name: Zubababa Knight
+  sets:
+  - code: DUAD-EN001
+    name: Duelist's Advance
+    rarity: Super Rare
+    tcg_date: '2025-07-03'
+  type: Effect Monster
+62279666:
+  description: 'Once per turn, if a face-up Link Monster you control is destroyed
+    by battle, or leaves the field because of an opponent''s card effect: You can
+    Special Summon 1 "World Legacy" monster from your hand or Deck in Defense Position.
+    You can only control 1 "World Legacy''s Corruption".'
+  earliest_release_date: '2018-05-03'
+  frameType: spell
+  humanReadableCardType: Continuous Spell
+  id: 62279666
+  name: World Legacy's Corruption
+  sets:
+  - code: MP19-EN037
+    name: 2019 Gold Sarcophagus Tin Mega Pack
+    rarity: Common
+    tcg_date: '2019-08-29'
+  - code: FLOD-EN057
+    name: Flames of Destruction
+    rarity: Common
+    tcg_date: '2018-05-03'
+  type: Spell Card
+63364266:
+  description: '1 Tuner + 1 or more non-Tuner monsters
+
+    This card gains 300 ATK for each EARTH Warrior-Type Synchro Monster on the field
+    (other than this card). When this card destroys an opponent''s monster by battle
+    and sends it to the Graveyard: You can Special Summon that monster to your side
+    of the field, but its ATK becomes halved.'
+  earliest_release_date: '2015-10-01'
+  frameType: synchro
+  humanReadableCardType: Synchro Effect Monster
+  id: 63364266
+  name: Goyo Chaser
+  sets:
+  - code: HSRD-EN038
+    name: High-Speed Riders
+    rarity: Ultra Rare
+    tcg_date: '2015-10-01'
+  type: Synchro Monster
+63679166:
+  description: 'This card can be used to Ritual Summon any "Archfiend" Ritual Monster
+    from your hand, face-up Extra Deck, GY, or banishment. You must also Tribute monsters
+    from your hand or field whose total Levels equal or exceed the Level of the Ritual
+    Monster. During the Standby Phase, if you have "Doom Emperor Archfiend" face-up
+    in your Extra Deck: You can add this card from your GY or banishment to your hand.
+    You can only use this effect of "Throne of Archfiends" once per turn.'
+  earliest_release_date: '9999-12-31'
+  frameType: spell
+  humanReadableCardType: Ritual Spell
+  id: 63679166
+  name: Throne of Archfiends
+  sets: []
+  type: Spell Card
+64631466:
+  description: 'You can Ritual Summon this card with "Black Illusion Ritual". Once
+    per turn: You can target 1 monster your opponent controls; equip that target to
+    this card (max. 1). This card''s ATK/DEF become equal to that equipped monster''s.
+    If this card would be destroyed by battle, destroy that equipped monster instead.
+    While equipped with that monster, any battle damage you take from battles involving
+    this card inflicts equal effect damage to your opponent.'
+  earliest_release_date: '2002-09-16'
+  frameType: ritual
+  humanReadableCardType: Ritual Effect Monster
+  id: 64631466
+  name: Relinquished
+  sets:
+  - code: DB1-EN015
+    name: Dark Beginning 1
+    rarity: Super Rare
+    tcg_date: '2004-10-12'
+  - code: DLG1-EN055
+    name: Dark Legends
+    rarity: Super Rare
+    tcg_date: '2008-11-21'
+  - code: LCYW-EN113
+    name: 'Legendary Collection 3: Yugi''s World Mega Pack'
+    rarity: Rare
+    tcg_date: '2012-09-29'
+  - code: LED2-EN000
+    name: 'Legendary Duelists: Ancient Millennium'
+    rarity: Common
+    tcg_date: '2018-02-22'
+  - code: LDS1-EN047
+    name: 'Legendary Duelists: Season 1'
+    rarity: Common
+    tcg_date: '2020-07-02'
+  - code: MRL-029
+    name: Magic Ruler
+    rarity: Ultra Rare
+    tcg_date: '2002-09-16'
+  - code: MRL-E029
+    name: Magic Ruler
+    rarity: Ultra Rare
+    tcg_date: '2002-09-16'
+  - code: MC1-EN003
+    name: Master Collection Volume 1
+    rarity: Secret Rare
+    tcg_date: '2004-12-01'
+  - code: MIL1-EN008
+    name: Millennium Pack
+    rarity: Common
+    tcg_date: '2016-04-14'
+  - code: RP01-EN054
+    name: Retro Pack
+    rarity: Ultra Rare
+    tcg_date: '2008-07-08'
+  - code: SS01-ENC08
+    name: 'Speed Duel Starter Decks: Destiny Masters'
+    rarity: Common
+    tcg_date: '2019-01-24'
+  - code: SS04-ENB17
+    name: 'Speed Duel Starter Decks: Match of the Millennium'
+    rarity: Common
+    tcg_date: '2020-05-15'
+  - code: STP1-EN010
+    name: Speed Duel Tournament Pack 1
+    rarity: Ultra Rare
+    tcg_date: '2019-04-18'
+  - code: SRL-029
+    name: Spell Ruler
+    rarity: Ultra Rare
+    tcg_date: '2002-09-16'
+  - code: SRL-EN029
+    name: Spell Ruler
+    rarity: Ultra Rare
+    tcg_date: '2002-09-16'
+  - code: SDP-001
+    name: 'Starter Deck: Pegasus'
+    rarity: Ultra Rare
+    tcg_date: '2003-03-30'
+  type: Ritual Effect Monster
+64952266:
+  description: Select 1 "Blackwing" monster in your Graveyard. Take damage equal to
+    the ATK of the selected monster, and add it to your hand.
+  earliest_release_date: '2009-05-12'
+  frameType: spell
+  humanReadableCardType: Normal Spell
+  id: 64952266
+  name: Against the Wind
+  sets:
+  - code: DP11-EN018
+    name: 'Duelist Pack: Crow'
+    rarity: Common
+    tcg_date: '2011-05-27'
+  - code: RGBT-EN050
+    name: Raging Battle
+    rarity: Rare
+    tcg_date: '2009-05-12'
+  type: Spell Card
+65193366:
+  description: 'If this card in its owner''s possession is destroyed by an opponent''s
+    card (by battle or card effect): You can Special Summon 1 "Ritual Beast" monster
+    from your Deck or Extra Deck, ignoring its Summoning conditions. You can only
+    Special Summon "Spiritual Beast Tamer Winda(s)" once per turn.'
+  earliest_release_date: '2017-02-09'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 65193366
+  name: Spiritual Beast Tamer Winda
+  sets:
+  - code: MP17-EN192
+    name: 2017 Mega-Tin Mega Pack
+    rarity: Rare
+    tcg_date: '2017-08-24'
+  - code: BLTR-EN070
+    name: 'Battles of Legend: Terminal Revenge'
+    rarity: Ultra Rare
+    tcg_date: '2024-06-20'
+  - code: RATE-EN026
+    name: Raging Tempest
+    rarity: Rare
+    tcg_date: '2017-02-09'
+  type: Effect Monster
+67211766:
+  description: Your opponent cannot select this card as an attack target while they
+    control any Spell/Trap Cards. During battle between this attacking card and a
+    Defense Position monster whose DEF is lower than the ATK of this card, inflict
+    the difference as Battle Damage to your opponent.
+  earliest_release_date: '2011-02-08'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 67211766
+  name: Majioshaleon
+  sets:
+  - code: STOR-EN036
+    name: Storm of Ragnarok
+    rarity: Common
+    tcg_date: '2011-02-08'
+  - code: STOR-EN036
+    name: Storm of Ragnarok
+    rarity: Short Print
+    tcg_date: '2011-02-08'
+  type: Effect Monster
+67696066:
+  description: 'If this card is sent to the GY: You can target 1 "Performage" monster
+    in your GY; Special Summon it, but its ATK/DEF become 0, then you take 1000 damage.
+    You can only use this effect of "Performage Trick Clown" once per turn.'
+  earliest_release_date: '2015-08-06'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 67696066
+  name: Performage Trick Clown
+  sets:
+  - code: MP16-EN062
+    name: 2016 Mega-Tin Mega Pack
+    rarity: Common
+    tcg_date: '2016-09-01'
+  - code: BLRR-EN060
+    name: 'Battles of Legend: Relentless Revenge'
+    rarity: Ultra Rare
+    tcg_date: '2018-06-28'
+  - code: CORE-EN018
+    name: Clash of Rebellions
+    rarity: Common
+    tcg_date: '2015-08-06'
+  - code: SDSH-EN016
+    name: 'Structure Deck: Shaddoll Showdown'
+    rarity: Common
+    tcg_date: '2020-02-13'
+  - code: VASM-EN042
+    name: Valiant Smashers
+    rarity: Rare
+    tcg_date: '2023-11-16'
+  type: Effect Monster
+69207766:
+  description: 'Once per turn: You can equip 1 "Inzektor" monster from your hand or
+    Graveyard to this card. While this card is equipped to a monster, that monster''s
+    Level is increased by 3, also it gains ATK and DEF equal to this card''s ATK and
+    DEF. While this card is equipped to a monster: You can send this Equip Card to
+    the Graveyard to target 1 card on the field; destroy that target.'
+  earliest_release_date: '2012-01-20'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 69207766
+  name: Inzektor Hornet
+  sets:
+  - code: GFP2-EN062
+    name: 'Ghosts From the Past: The 2nd Haunting'
+    rarity: Ultra Rare
+    tcg_date: '2022-05-05'
+  - code: ORCS-EN017
+    name: Order of Chaos
+    rarity: Super Rare
+    tcg_date: '2012-01-20'
+  - code: OP17-PT029
+    name: OTS Tournament Pack 17 (POR)
+    rarity: Common
+    tcg_date: '2021-10-14'
+  - code: RA04-EN171
+    name: Quarter Century Stampede
+    rarity: Platinum Secret Rare
+    tcg_date: '2025-04-10'
+  - code: RA04-EN171
+    name: Quarter Century Stampede
+    rarity: Quarter Century Secret Rare
+    tcg_date: '2025-04-10'
+  - code: GRCR-EN038
+    name: The Grand Creators
+    rarity: Collector's Rare
+    tcg_date: '2022-01-27'
+  - code: GRCR-EN038
+    name: The Grand Creators
+    rarity: Rare
+    tcg_date: '2022-01-27'
+  type: Effect Monster
+71197066:
+  description: 'If this card is in your hand or GY (Quick Effect): You can banish
+    8 cards from the top of your Deck face-down; Special Summon this card. You can
+    banish 3 cards from your Extra Deck face-down, then target 1 face-up monster on
+    the field; destroy it. You can only use 1 "Gizmek Orochi, the Serpentron Sky Slasher"
+    effect per turn, and only once that turn.'
+  earliest_release_date: '2019-07-26'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 71197066
+  name: Gizmek Orochi, the Serpentron Sky Slasher
+  sets:
+  - code: MP20-EN114
+    name: 2020 Tin of Lost Memories Mega Pack
+    rarity: Ultra Rare
+    tcg_date: '2020-08-27'
+  - code: AMDE-EN048
+    name: Amazing Defenders
+    rarity: Collector's Rare
+    tcg_date: '2023-01-19'
+  - code: AMDE-EN048
+    name: Amazing Defenders
+    rarity: Rare
+    tcg_date: '2023-01-19'
+  - code: RIRA-EN029
+    name: Rising Rampage
+    rarity: Secret Rare
+    tcg_date: '2019-07-26'
+  - code: SDCS-EN020
+    name: 'Structure Deck: Cyber Strike'
+    rarity: Common
+    tcg_date: '2021-10-14'
+  type: Effect Monster
+72237166:
+  description: When you Tribute Summon a monster by Tributing this card, return this
+    card to your hand.
+  earliest_release_date: '2008-04-02'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 72237166
+  name: Samsara Kaiser
+  sets:
+  - code: SDDE-EN003
+    name: The Dark Emperor Structure Deck
+    rarity: Common
+    tcg_date: '2008-04-02'
+  type: Effect Monster
+72238166:
+  description: If you have an Xyz Monster in your field or GY, you can Special Summon
+    this card (from your hand). If Summoned this way, you cannot Special Summon from
+    the Extra Deck for the rest of this turn, except Rank 4 Xyz Monsters. You can
+    only Special Summon "Node Ryzeal" once per turn this way. You can send 1 card
+    from your hand or field to the GY, then target 1 "Ryzeal" monster in your GY,
+    except "Node Ryzeal"; Special Summon it in Defense Position, but negate its effects.
+    You can only use this effect of "Node Ryzeal" once per turn.
+  earliest_release_date: '2024-12-05'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 72238166
+  name: Node Ryzeal
+  sets:
+  - code: MP25-EN437
+    name: 2025 Mega-Pack Tin
+    rarity: Common
+    tcg_date: '2025-09-04'
+  - code: CRBR-EN002
+    name: Crossover Breakers
+    rarity: Rare
+    tcg_date: '2024-12-05'
+  - code: CRBR-EN002
+    name: Crossover Breakers
+    rarity: Super Rare
+    tcg_date: '2024-12-05'
+  type: Effect Monster
+72323266:
+  description: If there is a card in a Field Zone, you can Special Summon this card
+    (from your hand). You can only Special Summon "Earthbound Prisoner Stone Sweeper"
+    once per turn this way. You can discard this card; add 1 Level 3 or lower Fiend
+    Tuner from your Deck to your hand, also you cannot Special Summon from the Extra
+    Deck for the rest of this turn, except Fusion or Synchro Monsters. You can only
+    use this effect of "Earthbound Prisoner Stone Sweeper" once per turn.
+  earliest_release_date: '2024-01-18'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 72323266
+  name: Earthbound Prisoner Stone Sweeper
+  sets:
+  - code: MZMI-EN028
+    name: Maze of Millennia
+    rarity: Super Rare
+    tcg_date: '2024-01-18'
+  type: Effect Monster
+72497366:
+  description: Each turn, 1 Level 5 or higher Fiend monster you Normal Summon can
+    be Summoned without Tributing. If exactly 1 Normal Summoned/Set Level 5 or higher
+    Fiend monster (and no other cards) would be destroyed, you can send this card
+    to the GY instead.
+  earliest_release_date: '2013-11-08'
+  frameType: trap
+  humanReadableCardType: Continuous Trap
+  id: 72497366
+  name: Sinister Yorishiro
+  sets:
+  - code: MP14-EN182
+    name: 2014 Mega-Tin Mega Pack
+    rarity: Ultra Rare
+    tcg_date: '2014-08-28'
+  - code: SDPD-EN038
+    name: Pendulum Domination Structure Deck
+    rarity: Common
+    tcg_date: '2017-01-19'
+  - code: SHSP-EN089
+    name: Shadow Specters
+    rarity: Ultra Rare
+    tcg_date: '2013-11-08'
+  - code: SR06-EN040
+    name: 'Structure Deck: Lair of Darkness'
+    rarity: Common
+    tcg_date: '2018-04-19'
+  type: Trap Card
+72913666:
+  description: 'Cannot be Normal Summoned, unless you control a "Ghostrick" monster.
+    Once per turn: You can change this card to face-down Defense Position. When this
+    card is flipped face-up: Inflict 100 damage to your opponent for each Set card
+    on the field. You can only use this effect of "Ghostrick Warwolf" once per turn.'
+  earliest_release_date: '2014-05-16'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 72913666
+  name: Ghostrick Warwolf
+  sets:
+  - code: PRIO-EN023
+    name: Primal Origin
+    rarity: Common
+    tcg_date: '2014-05-16'
+  type: Effect Monster
+73544866:
+  description: 'Cannot be Summoned unless you control a face-up "Wicked-Breaking Flamberge
+    - Baou". When this card destroys an opponent''s monster by battle and sends it
+    to the Graveyard: It gains 1000 ATK. Negate the effects of monsters destroyed
+    by battle with this card.'
+  earliest_release_date: '2003-12-01'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 73544866
+  name: Guardian Baou
+  sets:
+  - code: DCR-008
+    name: Dark Crisis
+    rarity: Rare
+    tcg_date: '2003-12-01'
+  - code: DCR-EN008
+    name: Dark Crisis
+    rarity: Rare
+    tcg_date: '2003-12-01'
+  - code: DR1-EN170
+    name: Dark Revelation Volume 1
+    rarity: Common
+    tcg_date: '2005-03-19'
+  - code: LCYW-EN132
+    name: 'Legendary Collection 3: Yugi''s World Mega Pack'
+    rarity: Common
+    tcg_date: '2012-09-29'
+  type: Effect Monster
+73680966:
+  description: 'If you have 7 or more DARK monsters in your GY: Banish 5 DARK monsters
+    from your GY; draw 3 cards.'
+  earliest_release_date: '2008-02-13'
+  frameType: spell
+  humanReadableCardType: Normal Spell
+  id: 73680966
+  name: The Beginning of the End
+  sets:
+  - code: DESO-EN053
+    name: Destiny Soldiers
+    rarity: Super Rare
+    tcg_date: '2016-11-17'
+  - code: PTDN-EN053
+    name: Phantom Darkness
+    rarity: Ultimate Rare
+    tcg_date: '2008-02-13'
+  - code: PTDN-EN053
+    name: Phantom Darkness
+    rarity: Ultra Rare
+    tcg_date: '2008-02-13'
+  - code: SBSC-EN040
+    name: 'Speed Duel: Scars of Battle'
+    rarity: Common
+    tcg_date: '2019-08-01'
+  - code: SDSA-EN028
+    name: 'Structure Deck: Sacred Beasts'
+    rarity: Common
+    tcg_date: '2020-07-09'
+  type: Spell Card
+74637266:
+  description: With the head of a fish and the legs of an octopus, this strange creature
+    attacks enemies by flinging spears.
+  earliest_release_date: '2002-09-16'
+  frameType: normal
+  humanReadableCardType: Normal Monster
+  id: 74637266
+  name: Octoberser
+  sets:
+  - code: MRL-052
+    name: Magic Ruler
+    rarity: Common
+    tcg_date: '2002-09-16'
+  - code: MRL-E052
+    name: Magic Ruler
+    rarity: Common
+    tcg_date: '2002-09-16'
+  - code: SRL-052
+    name: Spell Ruler
+    rarity: Common
+    tcg_date: '2002-09-16'
+  - code: SRL-EN052
+    name: Spell Ruler
+    rarity: Common
+    tcg_date: '2002-09-16'
+  type: Normal Monster
+74652966:
+  description: 'If you control a Link Monster: You can Special Summon this card from
+    your hand. During your Main Phase: You can activate this effect; once this turn,
+    if you Link Summon a "Salamangreat" Link Monster, you can use 1 "Salamangreat"
+    Link Monster you control with its same name as the entire material. During your
+    opponent''s Main Phase (Quick Effect): You can banish this card from your GY;
+    immediately after this effect resolves, Link Summon 1 Link-3 or higher Cyberse
+    Link Monster. You can only use each effect of "Code of Soul" once per turn.'
+  earliest_release_date: '2024-04-25'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 74652966
+  name: Code of Soul
+  sets:
+  - code: MP25-EN206
+    name: 2025 Mega-Pack Tin
+    rarity: Ultra Rare
+    tcg_date: '2025-09-04'
+  - code: LEDE-EN099
+    name: Legacy of Destruction
+    rarity: Super Rare
+    tcg_date: '2024-04-25'
+  type: Effect Monster
+77751766:
+  description: 'Activate this card by placing 5 Schoolwork Counters on it. If a monster(s)
+    is Special Summoned from the Extra Deck, or a card(s) is sent from the Deck to
+    the GY, by a Spell/Trap effect: Remove 1 Schoolwork Counter from this card, then
+    if the number of Schoolwork Counters on this card is now 0, destroy this card,
+    and if you do, gain 4000 LP, then Set 1 "Schoolwork" Trap from your Deck or GY,
+    then if you have 1 or less cards in your Deck, you win the Duel.'
+  earliest_release_date: '2024-10-10'
+  frameType: trap
+  humanReadableCardType: Continuous Trap
+  id: 77751766
+  name: Summer Schoolwork Successful!
+  sets:
+  - code: ROTA-EN080
+    name: Rage of the Abyss
+    rarity: Common
+    tcg_date: '2024-10-10'
+  type: Trap Card
+78663366:
+  description: 'During either player''s turn, when a card or effect is activated (except
+    during the Damage Step): You can banish this card you control. During the next
+    Standby Phase, return this card banished by this effect to the field, and if you
+    do, it gains 300 ATK. You can only use this effect of "Evilswarm Thunderbird"
+    once per turn.'
+  earliest_release_date: '2013-02-01'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 78663366
+  name: Evilswarm Thunderbird
+  sets:
+  - code: BP03-EN104
+    name: 'Battle Pack 3: Monster League'
+    rarity: Common
+    tcg_date: '2014-07-31'
+  - code: BP03-EN104
+    name: 'Battle Pack 3: Monster League'
+    rarity: Shatterfoil Rare
+    tcg_date: '2014-07-31'
+  - code: DT07-EN075
+    name: Duel Terminal 7b
+    rarity: Duel Terminal Normal Parallel Rare
+    tcg_date: '2013-02-01'
+  - code: HA07-EN051
+    name: 'Hidden Arsenal 7: Knight of Stars'
+    rarity: Secret Rare
+    tcg_date: '2013-04-26'
+  type: Effect Monster
+78748366:
+  description: 'You can discard 1 card; add 1 "Void" Spell/Trap Card from your Deck
+    to your hand, except "Void Vanishment" or "Null and Void", also you cannot Normal
+    or Special Summon monsters for the rest of this turn, except "Infernoid" monsters.
+    You can only use this effect of "Void Vanishment" once per turn. If an "Infernoid"
+    monster you control battles an opponent''s monster, after damage calculation:
+    You can send this card to the Graveyard; banish those monsters.'
+  earliest_release_date: '2015-05-14'
+  frameType: spell
+  humanReadableCardType: Continuous Spell
+  id: 78748366
+  name: Void Vanishment
+  sets:
+  - code: BLTR-EN100
+    name: 'Battles of Legend: Terminal Revenge'
+    rarity: Secret Rare
+    tcg_date: '2024-06-20'
+  - code: CROS-EN061
+    name: Crossed Souls
+    rarity: Super Rare
+    tcg_date: '2015-05-14'
+  type: Spell Card
+79480466:
+  description: "3 Level 4 monsters\r\nAny Xyz Material detached from a monster is\
+    \ banished instead of being sent to the GY. Once per Chain, if a Monster Card(s)\
+    \ is sent to the GY (except during the Damage Step): You can detach 1 material\
+    \ from this card. If the last material(s) is detached from this card (except during\
+    \ the Damage Step): You can target 3 cards in the GY(s); attach them to this card\
+    \ as material."
+  earliest_release_date: '9999-12-31'
+  frameType: xyz
+  humanReadableCardType: Xyz Effect Monster
+  id: 79480466
+  name: Bazoo the Soul Eater Beast
+  sets: []
+  type: XYZ Monster
+79979666:
+  description: 'If this is the only card in your hand, you can Special Summon it (from
+    your hand). When this card is Summoned: You can draw 2 cards. You must control
+    no other cards and have no cards in your hand to activate and to resolve this
+    effect.'
+  earliest_release_date: '2005-08-17'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 79979666
+  name: Elemental HERO Bubbleman
+  sets:
+  - code: CRV-EN014
+    name: Cybernetic Revolution
+    rarity: Rare
+    tcg_date: '2005-08-17'
+  - code: CRV-EN014
+    name: Cybernetic Revolution
+    rarity: Ultimate Rare
+    tcg_date: '2005-08-17'
+  - code: DR04-EN014
+    name: Dark Revelation Volume 4
+    rarity: Common
+    tcg_date: '2007-11-14'
+  - code: DP1-EN009
+    name: 'Duelist Pack: Jaden Yuki'
+    rarity: Common
+    tcg_date: '2006-02-08'
+  - code: SDHS-EN012
+    name: HERO Strike Structure Deck
+    rarity: Common
+    tcg_date: '2015-01-29'
+  - code: LCGX-EN012
+    name: 'Legendary Collection 2: The Duel Academy Years Mega Pack'
+    rarity: Common
+    tcg_date: '2011-10-04'
+  - code: MF03-EN007
+    name: 'Mattel Action Figure promotional cards: Series 3'
+    rarity: Normal Parallel Rare
+    tcg_date: '2006-01-01'
+  - code: SGX1-ENA08
+    name: 'Speed Duel GX: Duel Academy Box'
+    rarity: Common
+    tcg_date: '2022-03-17'
+  - code: SGX2-ENA08
+    name: 'Speed Duel GX: Midterm Paradox'
+    rarity: Common
+    tcg_date: '2022-10-06'
+  - code: SGX2-ENA08
+    name: 'Speed Duel GX: Midterm Paradox'
+    rarity: Secret Rare
+    tcg_date: '2022-10-06'
+  - code: YSDJ-EN017
+    name: 'Starter Deck: Jaden Yuki'
+    rarity: Super Rare
+    tcg_date: '2007-07-25'
+  - code: EHC1-EN003
+    name: Yu-Gi-Oh! Elemental Hero Collection 1
+    rarity: Secret Rare
+    tcg_date: '2007-11-13'
+  type: Effect Monster
+81196066:
+  description: "2 \"Lunalight\" monsters\r\nIf this card is Fusion Summoned: You can\
+    \ add 1 \"Luna Light Perfume\" from your Deck to your hand. You can target 1 other\
+    \ \"Lunalight\" card you control; return it to the hand/Extra Deck, then you can\
+    \ Special Summon 1 \"Lunalight\" monster from your hand. You can banish this card\
+    \ from your GY; this turn, all monsters your opponent controls lose ATK equal\
+    \ to their original DEF. You can only use each effect of \"Lunalight Perfume Dancer\"\
+    \ once per turn."
+  earliest_release_date: '2025-07-03'
+  frameType: fusion
+  humanReadableCardType: Fusion Effect Monster
+  id: 81196066
+  name: Lunalight Perfume Dancer
+  sets:
+  - code: DUAD-EN031
+    name: Duelist's Advance
+    rarity: Super Rare
+    tcg_date: '2025-07-03'
+  type: Fusion Monster
+82103466:
+  description: 'Cannot be Normal Summoned/Set. Must be Special Summoned by its own
+    effect. If a monster(s) you control is destroyed by an opponent''s attack or card
+    effect: You can pay half your LP; Special Summon this card from your hand. Cannot
+    be targeted by card effects. If this card attacks an opponent''s monster, during
+    the Damage Step only, negate the effects of that monster while it is face-up on
+    the field (but its effects can still be activated), also its ATK becomes half
+    its original ATK. Once per battle, if this card battles, during damage calculation
+    (Quick Effect): You can make this card''s ATK become equal to the highest original
+    ATK on the field (your choice, if tied).'
+  earliest_release_date: '2018-07-26'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 82103466
+  name: Divine Serpent Geh
+  sets:
+  - code: CYHO-EN092
+    name: Cybernetic Horizon
+    rarity: Common
+    tcg_date: '2018-07-26'
+  - code: DLCS-EN142
+    name: 'Dragons of Legend: The Complete Series'
+    rarity: Common
+    tcg_date: '2020-09-10'
+  - code: DUPO-EN047
+    name: Duel Power
+    rarity: Ultra Rare
+    tcg_date: '2019-04-03'
+  type: Effect Monster
+83289866:
+  description: "The first time each \"Witchcrafter\" monster you control would be\
+    \ destroyed each turn, by battle or card effect, it is not destroyed. You can\
+    \ only use 1 of the following effects of \"Witchcrafter Bystreet\" per turn, and\
+    \ only once that turn.\r\n\u25CF If a \"Witchcrafter\" monster you control would\
+    \ discard to activate an effect, you can send this card from your field to the\
+    \ GY instead.\r\n\u25CF During your End Phase, if you control a \"Witchcrafter\"\
+    \ monster, while this card is in your GY: You can place this card face-up in your\
+    \ Spell & Trap Zone."
+  earliest_release_date: '2019-03-21'
+  frameType: spell
+  humanReadableCardType: Continuous Spell
+  id: 83289866
+  name: Witchcrafter Bystreet
+  sets:
+  - code: MP20-EN229
+    name: 2020 Tin of Lost Memories Mega Pack
+    rarity: Ultra Rare
+    tcg_date: '2020-08-27'
+  - code: INCH-EN024
+    name: The Infinity Chasers
+    rarity: Secret Rare
+    tcg_date: '2019-03-21'
+  type: Spell Card
+83555666:
+  description: 'During your opponent''s turn: Target 1 face-up monster your opponent
+    controls whose ATK is less than or equal to their LP; destroy that face-up monster,
+    and if you do, take damage equal to its original ATK, then inflict damage to your
+    opponent, equal to the damage you took. You can only activate 1 "Ring of Destruction"
+    per turn.'
+  earliest_release_date: '2003-07-18'
+  frameType: trap
+  humanReadableCardType: Normal Trap
+  id: 83555666
+  name: Ring of Destruction
+  sets:
+  - code: KC01-EN055
+    name: 25th Anniversary Ultimate Kaiba Set
+    rarity: Ultra Rare
+    tcg_date: '2024-03-01'
+  - code: BP01-EN050
+    name: 'Battle Pack: Epic Dawn'
+    rarity: Rare
+    tcg_date: '2012-05-24'
+  - code: BP01-EN050
+    name: 'Battle Pack: Epic Dawn'
+    rarity: Starfoil Rare
+    tcg_date: '2012-05-24'
+  - code: CP02-EN008
+    name: 'Champion Pack: Game Two'
+    rarity: Rare
+    tcg_date: '2007-02-06'
+  - code: DPKB-EN036
+    name: 'Duelist Pack: Kaiba'
+    rarity: Ultimate Rare
+    tcg_date: '2010-04-16'
+  - code: IOC-SE3
+    name: 'Invasion of Chaos: Special Edition'
+    rarity: Ultra Rare
+    tcg_date: '2004-04-01'
+  - code: LCKC-EN050
+    name: Legendary Collection Kaiba Mega Pack
+    rarity: Ultra Rare
+    tcg_date: '2018-03-08'
+  - code: MIL1-EN023
+    name: Millennium Pack
+    rarity: Common
+    tcg_date: '2016-04-14'
+  - code: PGD-000
+    name: Pharaonic Guardian
+    rarity: Secret Rare
+    tcg_date: '2003-07-18'
+  - code: PGL2-EN063
+    name: 'Premium Gold: Return of the Bling'
+    rarity: Gold Rare
+    tcg_date: '2015-03-19'
+  - code: RA04-EN119
+    name: Quarter Century Stampede
+    rarity: Platinum Secret Rare
+    tcg_date: '2025-04-10'
+  - code: RA04-EN119
+    name: Quarter Century Stampede
+    rarity: Quarter Century Secret Rare
+    tcg_date: '2025-04-10'
+  - code: RP02-EN066
+    name: Retro Pack 2
+    rarity: Secret Rare
+    tcg_date: '2009-07-28'
+  - code: YS17-EN036
+    name: 'Starter Deck: Link Strike'
+    rarity: Common
+    tcg_date: '2017-07-20'
+  - code: SDKS-EN033
+    name: 'Structure Deck: Seto Kaiba'
+    rarity: Common
+    tcg_date: '2016-10-20'
+  - code: LART-EN007
+    name: The Lost Art Promotion (series)
+    rarity: Common
+    tcg_date: '2024-02-14'
+  - code: LART-EN007
+    name: The Lost Art Promotion G
+    rarity: Ultra Rare
+    tcg_date: '2019-01-01'
+  type: Trap Card
+84640866:
+  description: 'When your opponent Special Summons a monster(s) from the Main Deck
+    or GY: Banish it face-down.'
+  earliest_release_date: '2018-05-03'
+  frameType: trap
+  humanReadableCardType: Normal Trap
+  id: 84640866
+  name: Network Trap Hole
+  sets:
+  - code: MP19-EN050
+    name: 2019 Gold Sarcophagus Tin Mega Pack
+    rarity: Rare
+    tcg_date: '2019-08-29'
+  - code: FLOD-EN076
+    name: Flames of Destruction
+    rarity: Ultra Rare
+    tcg_date: '2018-05-03'
+  - code: OP21-EN025
+    name: OTS Tournament Pack 21
+    rarity: Common
+    tcg_date: '2023-02-09'
+  type: Trap Card
+84696266:
+  description: A duck which can walk at a sonic speed. Sometimes, he cannot deal with
+    his incredible pace and loses control.
+  earliest_release_date: '2003-10-10'
+  frameType: normal
+  humanReadableCardType: Normal Monster
+  id: 84696266
+  name: Sonic Duck
+  sets:
+  - code: DR1-EN112
+    name: Dark Revelation Volume 1
+    rarity: Common
+    tcg_date: '2005-03-19'
+  - code: DEM2-EN009
+    name: Demo Deck 2015
+    rarity: Common
+    tcg_date: '2015-03-30'
+  - code: MFC-057
+    name: Magician's Force
+    rarity: Common
+    tcg_date: '2003-10-10'
+  - code: SBAD-EN036
+    name: 'Speed Duel: Attack from the Deep'
+    rarity: Common
+    tcg_date: '2019-05-30'
+  - code: YSDJ-EN004
+    name: 'Starter Deck: Jaden Yuki'
+    rarity: Common
+    tcg_date: '2007-07-25'
+  - code: SD8-EN003
+    name: 'Structure Deck: Lord of the Storm'
+    rarity: Common
+    tcg_date: '2006-07-12'
+  type: Normal Monster
+84962466:
+  description: Once per turn, you can remove from play 1 face-up Beast-Type or Beast-Warrior-Type
+    monster you control to select 1 other face-up Beast-Type or Beast-Warrior-Type
+    monster you control. The selected monster gains the original ATK of the monster
+    removed from play for this effect.
+  earliest_release_date: '2010-08-17'
+  frameType: trap
+  humanReadableCardType: Continuous Trap
+  id: 84962466
+  name: Beast Rising
+  sets:
+  - code: DREV-EN074
+    name: Duelist Revolution
+    rarity: Common
+    tcg_date: '2010-08-17'
+  type: Trap Card
+85758066:
+  description: 'When an opponent''s monster declares an attack: Target 1 Spell in
+    your opponent''s GY; Set it to your field. You can banish this card from your
+    GY and send 1 "Monster Reborn" from your hand or face-down field to the GY; Special
+    Summon 1 "Obelisk the Tormentor" from your GY in Defense Position, and if you
+    activated this effect during your opponent''s turn, all monsters your opponent
+    controls that can attack must attack that face-up monster, this turn, while you
+    control it.'
+  earliest_release_date: '2024-03-01'
+  frameType: trap
+  humanReadableCardType: Normal Trap
+  id: 85758066
+  name: Magical Trick Mirror
+  sets:
+  - code: KC01-EN003
+    name: 25th Anniversary Ultimate Kaiba Set
+    rarity: New
+    tcg_date: '2024-03-01'
+  type: Trap Card
+86778566:
+  description: "During the Battle Phase, activate 1 of these effects.\n\u25CF Target\
+    \ 1 monster on the field; it cannot be destroyed by battle or by card effects\
+    \ during this Battle Phase.\n\u25CF You take no battle damage during this Battle\
+    \ Phase."
+  earliest_release_date: '2012-08-24'
+  frameType: trap
+  humanReadableCardType: Normal Trap
+  id: 86778566
+  name: Impenetrable Attack
+  sets:
+  - code: BP02-EN211
+    name: 'Battle Pack 2: War of the Giants'
+    rarity: Common
+    tcg_date: '2013-06-28'
+  - code: BP02-EN211
+    name: 'Battle Pack 2: War of the Giants'
+    rarity: Mosaic Rare
+    tcg_date: '2013-06-28'
+  - code: REDU-EN066
+    name: Return of the Duelist
+    rarity: Common
+    tcg_date: '2012-08-24'
+  - code: YS13-EN034
+    name: 'Super Starter: V for Victory'
+    rarity: Common
+    tcg_date: '2013-06-14'
+  type: Trap Card
+87624166:
+  description: When you activate this card, change any Defense Position monster(s)
+    to face-up Attack Position. Flip Effects are not activated at this time. If a
+    monster attacks, destroy it at the end of that turn's Battle Phase.
+  earliest_release_date: '2009-09-01'
+  frameType: spell
+  humanReadableCardType: Field Spell
+  id: 87624166
+  name: Ancient Forest
+  sets:
+  - code: ANPR-EN048
+    name: Ancient Prophecy
+    rarity: Super Rare
+    tcg_date: '2009-09-01'
+  type: Spell Card
+88069166:
+  description: 'Once per turn, during each player''s Standby Phase: You can target
+    1 "Aesir" monster you control; negate its effects until the end of this turn,
+    and if you do, look at all cards in your opponent''s hand and all Set cards they
+    control. Your opponent cannot activate cards or effects in response to this effect''s
+    activation.'
+  earliest_release_date: '2011-02-08'
+  frameType: trap
+  humanReadableCardType: Continuous Trap
+  id: 88069166
+  name: Odin's Eye
+  sets:
+  - code: LC5D-EN202
+    name: Legendary Collection 5D's Mega Pack
+    rarity: Common
+    tcg_date: '2014-10-23'
+  - code: STOR-EN072
+    name: Storm of Ragnarok
+    rarity: Common
+    tcg_date: '2011-02-08'
+  type: Trap Card
+88120966:
+  description: '2 Level 8 monsters
+
+    Up to twice per turn, during your Main Phase 1: You can detach 1 Xyz Material
+    from this card, then target 1 Special Summoned monster your opponent controls;
+    destroy it, then if it was an Xyz Monster, inflict damage to your opponent equal
+    to its original ATK.'
+  earliest_release_date: '2013-07-12'
+  frameType: xyz
+  humanReadableCardType: Xyz Effect Monster
+  id: 88120966
+  name: 'Number 15: Gimmick Puppet Giant Grinder'
+  sets:
+  - code: MP24-EN032
+    name: '25th Anniversary Tin: Dueling Mirrors'
+    rarity: Quarter Century Secret Rare
+    tcg_date: '2024-09-19'
+  - code: LDS3-EN063
+    name: 'Legendary Duelists: Season 3'
+    rarity: Common
+    tcg_date: '2022-07-21'
+  - code: MAGO-EN056
+    name: Maximum Gold
+    rarity: Rare
+    tcg_date: '2020-11-12'
+  - code: NUMH-EN027
+    name: Number Hunters
+    rarity: Secret Rare
+    tcg_date: '2013-07-12'
+  type: XYZ Monster
+89086566:
+  description: Destroy as many "Kuriboh" and "Kuriboh Tokens" you control as possible,
+    then destroy cards your opponent controls, up to the number of cards destroyed
+    by this effect.
+  earliest_release_date: '2009-11-05'
+  frameType: spell
+  humanReadableCardType: Quick-Play Spell
+  id: 89086566
+  name: Detonate
+  sets:
+  - code: BROL-EN065
+    name: Brothers of Legend
+    rarity: Ultra Rare
+    tcg_date: '2021-12-02'
+  - code: DT01-EN043
+    name: Duel Terminal 1
+    rarity: Duel Terminal Normal Parallel Rare
+    tcg_date: '2010-01-29'
+  - code: HA01-EN028
+    name: Hidden Arsenal
+    rarity: Super Rare
+    tcg_date: '2009-11-05'
+  - code: HAC1-EN168
+    name: 'Hidden Arsenal: Chapter 1'
+    rarity: Common
+    tcg_date: '2022-02-24'
+  - code: HAC1-EN168
+    name: 'Hidden Arsenal: Chapter 1'
+    rarity: Duel Terminal Normal Parallel Rare
+    tcg_date: '2022-02-24'
+  - code: LCYW-EN088
+    name: 'Legendary Collection 3: Yugi''s World Mega Pack'
+    rarity: Common
+    tcg_date: '2012-09-29'
+  - code: AC19-EN015
+    name: Yu-Gi-Oh! Advent Calendar (2019)
+    rarity: Super Rare
+    tcg_date: '2019-09-26'
+  - code: YGLD-ENA33
+    name: Yugi's Legendary Decks
+    rarity: Common
+    tcg_date: '2015-11-12'
+  type: Spell Card
+91831066:
+  description: 'If an "Aquaactress" monster you control battles an opponent''s monster,
+    during damage calculation: Your battling monster''s ATK and DEF each become double
+    its current ATK and DEF during that damage calculation only. If this card is sent
+    from the field to the Graveyard: You can target 1 Aqua-Type monster in your Graveyard;
+    Special Summon it, also you cannot Special Summon monsters for the rest of this
+    turn, except Aqua-Type monsters. You can only control 1 "Aquarium Lighting".'
+  earliest_release_date: '2015-07-16'
+  frameType: spell
+  humanReadableCardType: Continuous Spell
+  id: 91831066
+  name: Aquarium Lighting
+  sets:
+  - code: DRL2-EN044
+    name: Dragons of Legend 2
+    rarity: Super Rare
+    tcg_date: '2015-07-16'
+  - code: DLCS-EN095
+    name: 'Dragons of Legend: The Complete Series'
+    rarity: Common
+    tcg_date: '2020-09-10'
+  type: Spell Card
+93509766:
+  description: 'You can shuffle this card from your hand into the Deck; add 1 "Ryu-Ge
+    Realm - Dino Domains" from your Deck to your hand. During the Main Phase, if 2
+    or more cards were destroyed this turn (Quick Effect): You can Special Summon
+    this card from your hand. You can place 1 "Ryu-Ge Realm - Dino Domains" you control
+    on the bottom of the Deck, then target other cards on the field, up to the number
+    of different Monster Types on the field; destroy them. You can only use each effect
+    of "Kyoro Ryu-Ge Kaiva" once per turn.'
+  earliest_release_date: '2024-12-05'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 93509766
+  name: Kyoro Ryu-Ge Kaiva
+  sets:
+  - code: CRBR-EN031
+    name: Crossover Breakers
+    rarity: Collector's Rare
+    tcg_date: '2024-12-05'
+  - code: CRBR-EN031
+    name: Crossover Breakers
+    rarity: Super Rare
+    tcg_date: '2024-12-05'
+  type: Effect Monster
+93554166:
+  description: Target 1 Set card on the field; destroy that target, then discard 1
+    card.
+  earliest_release_date: '2005-11-16'
+  frameType: spell
+  humanReadableCardType: Normal Spell
+  id: 93554166
+  name: Dark World Lightning
+  sets:
+  - code: CP03-EN005
+    name: 'Champion Pack: Game Three'
+    rarity: Super Rare
+    tcg_date: '2007-05-15'
+  - code: DR04-EN098
+    name: Dark Revelation Volume 4
+    rarity: Rare
+    tcg_date: '2007-11-14'
+  - code: EEN-EN038
+    name: Elemental Energy
+    rarity: Common
+    tcg_date: '2005-11-16'
+  - code: SDGU-EN024
+    name: Gates of the Underworld Structure Deck
+    rarity: Common
+    tcg_date: '2011-10-13'
+  - code: LCJW-EN249
+    name: 'Legendary Collection 4: Joey''s World Mega Pack'
+    rarity: Secret Rare
+    tcg_date: '2013-10-11'
+  - code: SGX3-ENA16
+    name: 'Speed Duel GX: Duelists of Shadows'
+    rarity: Common
+    tcg_date: '2023-03-30'
+  - code: SR13-EN030
+    name: 'Structure Deck: Dark World'
+    rarity: Common
+    tcg_date: '2022-12-01'
+  type: Spell Card
+93665266:
+  description: 'During your opponent''s Main Phase or Battle Phase: You can Special
+    Summon 1 non-Tuner monster from your hand, but it has its effects negated (if
+    any), and if you do, immediately after this effect resolves, Synchro Summon 1
+    Machine-Type Synchro Monster using only that monster and this card (this is a
+    Quick Effect). You can only use this effect of "Crystron Quan" once per turn.'
+  earliest_release_date: '2016-11-03'
+  frameType: effect
+  humanReadableCardType: Tuner Effect Monster
+  id: 93665266
+  name: Crystron Quan
+  sets:
+  - code: INOV-EN015
+    name: 'Invasion: Vengeance'
+    rarity: Super Rare
+    tcg_date: '2016-11-03'
+  - code: RA04-EN021
+    name: Quarter Century Stampede
+    rarity: Collector's Rare
+    tcg_date: '2025-04-10'
+  - code: RA04-EN021
+    name: Quarter Century Stampede
+    rarity: Platinum Secret Rare
+    tcg_date: '2025-04-10'
+  - code: RA04-EN021
+    name: Quarter Century Stampede
+    rarity: Quarter Century Secret Rare
+    tcg_date: '2025-04-10'
+  - code: RA04-EN021
+    name: Quarter Century Stampede
+    rarity: Secret Rare
+    tcg_date: '2025-04-10'
+  - code: RA04-EN021
+    name: Quarter Century Stampede
+    rarity: Super Rare
+    tcg_date: '2025-04-10'
+  - code: RA04-EN021
+    name: Quarter Century Stampede
+    rarity: Ultimate Rare
+    tcg_date: '2025-04-10'
+  - code: RA04-EN021
+    name: Quarter Century Stampede
+    rarity: Ultra Rare
+    tcg_date: '2025-04-10'
+  type: Tuner Monster
+94661166:
+  description: 'Add 1 monster that mentions "Max Metalmorph" or 1 "Metalmorph" Trap
+    from your Deck or GY to your hand. If you control a "Metalmorph" Trap: You can
+    banish this card from your GY, then target 1 Defense Position monster your opponent
+    controls; change it to face-up Attack Position. You can only use this effect of
+    "Incoming Machine!" once per turn.'
+  earliest_release_date: '2024-10-10'
+  frameType: spell
+  humanReadableCardType: Normal Spell
+  id: 94661166
+  name: Incoming Machine!
+  sets:
+  - code: MP25-EN111
+    name: 2025 Mega-Pack Tin
+    rarity: Prismatic Secret Rare
+    tcg_date: '2025-09-04'
+  - code: ROTA-EN050
+    name: Rage of the Abyss
+    rarity: Super Rare
+    tcg_date: '2024-10-10'
+  type: Spell Card
+94821366:
+  description: 'Once per turn: You can banish any number of "Attraction" Traps from
+    your GY, then target that many cards your opponent controls; destroy them. You
+    can only use each of the following effects of "Amazement Administrator Arlekino"
+    once per turn. If a Trap Card is activated (except during the Damage Step): You
+    can Special Summon this card from your hand. If your opponent Normal or Special
+    Summons a monster(s) (except during the Damage Step): You can target 1 of those
+    face-up monsters they control; equip 1 "Attraction" Trap from your Deck to that
+    target.'
+  earliest_release_date: '2021-06-03'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 94821366
+  name: Amazement Administrator Arlekino
+  sets:
+  - code: LIOV-EN006
+    name: Lightning Overdrive
+    rarity: Secret Rare
+    tcg_date: '2021-06-03'
+  type: Effect Monster
+95451366:
+  description: Remove all Spell Counters on both sides of the field.
+  earliest_release_date: '2003-10-10'
+  frameType: trap
+  humanReadableCardType: Normal Trap
+  id: 95451366
+  name: Exhausting Spell
+  sets:
+  - code: DR1-EN153
+    name: Dark Revelation Volume 1
+    rarity: Common
+    tcg_date: '2005-03-19'
+  - code: MFC-098
+    name: Magician's Force
+    rarity: Common
+    tcg_date: '2003-10-10'
+  - code: SBC1-ENI21
+    name: 'Speed Duel: Streets of Battle City'
+    rarity: Common
+    tcg_date: '2023-08-24'
+  type: Trap Card
+97526666:
+  description: You can Tribute this card; add 1 Field Spell Card from your Deck to
+    your hand.
+  earliest_release_date: '2012-11-09'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 97526666
+  name: Planet Pathfinder
+  sets:
+  - code: ABYR-EN010
+    name: Abyss Rising
+    rarity: Common
+    tcg_date: '2012-11-09'
+  - code: CRBR-EN042
+    name: Crossover Breakers
+    rarity: Rare
+    tcg_date: '2024-12-05'
+  - code: CRBR-EN042
+    name: Crossover Breakers
+    rarity: Super Rare
+    tcg_date: '2024-12-05'
+  - code: SR03-EN013
+    name: Machine Reactor Structure Deck
+    rarity: Common
+    tcg_date: '2017-04-13'
+  - code: MAGO-EN119
+    name: Maximum Gold
+    rarity: Rare
+    tcg_date: '2020-11-12'
+  type: Effect Monster
+98147766:
+  description: Once per turn, you can pay 1000 Life Points and select 1 of your removed
+    from play Psychic-Type monsters. Add it to your hand.
+  earliest_release_date: '2009-09-01'
+  frameType: effect
+  humanReadableCardType: Effect Monster
+  id: 98147766
+  name: Genetic Woman
+  sets:
+  - code: ANPR-EN030
+    name: Ancient Prophecy
+    rarity: Common
+    tcg_date: '2009-09-01'
+  type: Effect Monster
+99137266:
+  description: 'If a card(s) is banished (except during the Damage Step): You can
+    banish 1 Wyrm Synchro Monster or 1 "Swordsoul" card from your hand, Deck, GY,
+    or that is face-up on either field. If this card is banished: You can Special
+    Summon 1 "Swordsoul Token" (Wyrm/Tuner/WATER/Level 4/ATK 0/DEF 0). While that
+    Token is in the Monster Zone, the player who Summoned it cannot Special Summon
+    monsters from the Extra Deck, except Synchro Monsters. You can only use each effect
+    of "Swordsoul Strife" once per turn.'
+  earliest_release_date: '2022-02-10'
+  frameType: trap
+  humanReadableCardType: Continuous Trap
+  id: 99137266
+  name: Swordsoul Strife
+  sets:
+  - code: BACH-EN067
+    name: Battle of Chaos
+    rarity: Common
+    tcg_date: '2022-02-10'
+  - code: MAMA-EN045
+    name: Magnificent Mavens
+    rarity: Ultra Rare
+    tcg_date: '2022-11-03'
+  type: Trap Card
+99543666:
+  description: 'During your Main Phase: You can Fusion Summon 1 Level 8 or higher
+    Fusion Monster from your Extra Deck, using monsters from your hand or field as
+    Fusion Material. If a face-up non-Fusion Fairy monster you control leaves the
+    field by an opponent''s card effect, or is destroyed by battle: You can target
+    1 Level 8 or higher Fusion Monster in your GY; Special Summon it. You can only
+    use each effect of "Despia, Theater of the Branded" once per turn.'
+  earliest_release_date: '2021-08-12'
+  frameType: spell
+  humanReadableCardType: Field Spell
+  id: 99543666
+  name: Despia, Theater of the Branded
+  sets:
+  - code: MP22-EN154
+    name: 2022 Tin of the Pharaoh's Gods
+    rarity: Rare
+    tcg_date: '2022-09-14'
+  - code: DAMA-EN053
+    name: Dawn of Majesty
+    rarity: Common
+    tcg_date: '2021-08-12'
+  - code: GFP2-EN167
+    name: 'Ghosts From the Past: The 2nd Haunting'
+    rarity: Ultra Rare
+    tcg_date: '2022-05-05'
+  type: Spell Card
+300302066:
+  description: "Once per Duel, during your Main Phase, you can change the name of\
+    \ 1 \"Red-Eyes\" monster or 1 Dragon Normal Monster you control to \"Red-Eyes\
+    \ Black Dragon\" while it's face-up on the field. Each \"Red-Eyes Darkness Dragon\"\
+    \ you control gains the following effect.\r\n\u25CF Once per turn, during your\
+    \ Main Phase: You can Special Summon 1 Dragon monster from your GY that can be\
+    \ Normal Summoned/Set."
+  earliest_release_date: '2023-03-30'
+  frameType: skill
+  humanReadableCardType: Skill - Nightshroud
+  id: 300302066
+  name: Forged Steel
+  sets:
+  - code: SGX3-ENS02
+    name: 'Speed Duel GX: Duelists of Shadows'
+    rarity: Common
+    tcg_date: '2023-03-30'
+  type: Skill Card
