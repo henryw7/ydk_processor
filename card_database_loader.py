@@ -79,6 +79,14 @@ def replace_special_characters(text):
             converted.append(char)
     return ''.join(converted)
 
+def card_name_to_key(card_name):
+    card_name_key = card_name
+    card_name_key = replace_special_characters(card_name_key)
+    card_name_key = re.sub(r'[^a-zA-Z0-9]', ' ', card_name_key)
+    card_name_key = re.sub(r'\s+', ' ', card_name_key.strip())
+    card_name_key = card_name_key.lower()
+    return card_name_key
+
 card_type_values = {
     "Effect Monster" : "main",
     "Flip Effect Monster" : "main",
@@ -150,6 +158,7 @@ def load_all_sets():
 loaded_card_cache = {}
 
 def load_all_cards():
+    global loaded_card_cache
     cached_cards = {}
     for i_bundle in range(n_all_cards_split):
         cachefile_cards = cachefile_cards_template %(f"{i_bundle:03d}")
@@ -160,6 +169,7 @@ def load_all_cards():
     return cached_cards
 
 def load_card(card_id):
+    global loaded_card_cache
     if card_id in loaded_card_cache:
         return loaded_card_cache[card_id]
     i_bundle = int(card_id) % n_all_cards_split
@@ -273,11 +283,7 @@ if __name__ == '__main__':
             "sets" : cached_card_sets,
         }
 
-        card_name_key = card_name
-        card_name_key = replace_special_characters(card_name_key)
-        card_name_key = re.sub(r'[^a-zA-Z0-9]', ' ', card_name_key)
-        card_name_key = re.sub(r'\s+', ' ', card_name_key.strip())
-        card_name_key = card_name_key.lower()
+        card_name_key = card_name_to_key(card_name)
         assert card_name_key not in cached_card_name_map, (card_name, card_name_key)
         cached_card_name_map[card_name_key] = card_id
 
