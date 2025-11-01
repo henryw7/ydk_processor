@@ -214,7 +214,7 @@ if __name__ == '__main__':
         else:
             print(f"Warning: Set \"{set_name}\" has no \"tcg_date\" keyword")
             set_tcg_date = "9999-12-31"
-        
+
         assert set_name not in cached_sets, set_name
         cached_sets[set_name.lower()] = {
             "code" : set_code,

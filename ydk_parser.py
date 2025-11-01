@@ -1,9 +1,15 @@
 from card_database_loader import load_card, card_type_values
 
-def counter_map(item_list):
+def list_to_counter_map(item_list):
     result = {}
     for item in item_list:
         result[item] = result.get(item, 0) + 1
+    return result
+
+def counter_map_to_list(item_map):
+    result = []
+    for key, value in item_map.items():
+        result.extend([key] * value)
     return result
 
 class Deck:
@@ -55,7 +61,7 @@ class Deck:
         assert not any([not type(id) is int or id > 99999999 or id < 0 for id in all_cards]), \
             "Incorrect card id in the deck"
 
-        main_card_count = counter_map(all_cards)
+        main_card_count = list_to_counter_map(all_cards)
         if any([n[1] > 3 for n in main_card_count.items()]):
             for key, value in main_card_count.items():
                 if value > 3:
