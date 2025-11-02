@@ -2,7 +2,7 @@ import urllib.request
 import json
 import yaml
 import re
-from dateutil import parser
+from dateutil.parser import parse as parse_date
 
 url_ygoprodeck_version = "https://db.ygoprodeck.com/api/v7/checkDBVer.php"
 url_ygoprodeck_all_cards = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
@@ -258,7 +258,7 @@ if __name__ == '__main__':
                 set_rarity = card_set["set_rarity"]
                 assert set_name.lower() in cached_sets, set_name
                 set_tcg_date = cached_sets[set_name.lower()]["tcg_date"]
-                if parser.parse(set_tcg_date) < parser.parse(card_earliest_release_date):
+                if parse_date(set_tcg_date) < parse_date(card_earliest_release_date):
                     card_earliest_release_date = set_tcg_date
 
                 cached_card_sets.append({

@@ -25,16 +25,16 @@ def merge_decks_random(decks):
     random.shuffle(funny_cards.main)
     random.shuffle(funny_cards.extra)
 
-    def funny_replace_repeated_card(deck_with_repeated, funny_deck):
+    def funny_replace_repeated_card(card_list_with_repeated, funny_deck):
         replaced = []
-        deck_with_repeated = list_to_counter_map(deck_with_repeated)
+        card_list_with_repeated = list_to_counter_map(card_list_with_repeated)
         funny_deck = funny_deck.copy()
-        for key, value in deck_with_repeated.items():
+        for key, value in card_list_with_repeated.items():
             if value > 3:
                 replaced.extend([key] * 3)
                 for i in range(value - 3):
                     funny_card = funny_deck.pop()
-                    while funny_card in deck_with_repeated:
+                    while funny_card in card_list_with_repeated:
                         funny_card = funny_deck.pop()
                     replaced.append(funny_card)
             else:
@@ -55,38 +55,38 @@ def merge_decks_at_least_one(decks):
     merged_deck.main  = [ id for deck in decks for id in (deck.main + deck.side_main) ]
     merged_deck.extra = [ id for deck in decks for id in (deck.extra + deck.side_extra) ]
 
-    def remove_repeated(deck_with_repeated, target_count):
-        deck_with_repeated = list_to_counter_map(deck_with_repeated)
+    def remove_repeated(card_list_with_repeated, target_count):
+        card_list_with_repeated = list_to_counter_map(card_list_with_repeated)
 
         card_count = { 1:0, 2:0, 3:0 }
-        for key, value in deck_with_repeated.items():
+        for key, value in card_list_with_repeated.items():
             if value > 3:
-                deck_with_repeated[key] = 3
+                card_list_with_repeated[key] = 3
                 value = 3
             card_count[value] += 1
         total_card_count = card_count[1] * 1 + card_count[2] * 2 + card_count[3] * 3
         if total_card_count <= target_count:
-            return counter_map_to_list(deck_with_repeated)
+            return counter_map_to_list(card_list_with_repeated)
 
         n_extra = total_card_count - target_count
         for max_repeated_card in range(3, 0, -1):
             if card_count[max_repeated_card] < n_extra:
                 assert max_repeated_card > 1
-                for key, value in deck_with_repeated.items():
+                for key, value in card_list_with_repeated.items():
                     if value == max_repeated_card:
-                        deck_with_repeated[key] -= 1
+                        card_list_with_repeated[key] -= 1
                 n_extra -= card_count[max_repeated_card]
                 card_count[max_repeated_card - 1] += card_count[max_repeated_card]
                 card_count[max_repeated_card] = 0
             else:
-                card_with_count = deck_with_repeated
+                card_with_count = card_list_with_repeated
                 if max_repeated_card > 1:
-                    card_with_count = [key for key, value in deck_with_repeated.items() if value == max_repeated_card]
+                    card_with_count = [key for key, value in card_list_with_repeated.items() if value == max_repeated_card]
                 random.shuffle(card_with_count)
                 for i_extra in range(n_extra):
-                    deck_with_repeated[card_with_count[i_extra]] -= 1
+                    card_list_with_repeated[card_with_count[i_extra]] -= 1
                 break
-        return counter_map_to_list(deck_with_repeated)
+        return counter_map_to_list(card_list_with_repeated)
 
     random_0_1 = random.random()
     main_deck_count = 40 if (random_0_1 < 0.75) else 60
