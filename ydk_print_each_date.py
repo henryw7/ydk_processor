@@ -3,7 +3,7 @@ import os
 from ydk_parser import Deck, read_ydk
 from card_database_loader import load_card
 
-ydk_filename = "sample_deck/exodia timelord.ydk"
+ydk_filename = "sample_deck/exodia sky striker.ydk"
 
 def print_card_in_list_name_and_date(card_list):
     assert type(card_list) is list
@@ -36,4 +36,7 @@ if __name__ == '__main__':
     deck = read_ydk(ydk_filename)
     print_card_in_deck_name_and_date(deck)
 
-    print(f"The whole deck is available at {deck.get_date()}")
+    latest_release_date = deck.get_date()
+    print(f"The whole deck is available at {latest_release_date}")
+    if latest_release_date == "9999-12-31":
+        print(f"A timestamp of {latest_release_date} means the card is released very recently and is not updated in our database.")
